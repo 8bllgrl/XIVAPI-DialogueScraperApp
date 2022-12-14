@@ -30,7 +30,9 @@ instance of the NAME variable. Because this program is searching for the NAME in
  */
 public class Diae {
 
-    public static final String CHAR_NAME = "Alphinaud";
+    public static final String CHAR_NAME = "Estinien";
+    public static int total;
+    public static int isInFileCount;
 
     //2. method that makes and returns an array of every csv file name
     public static String[] makeCsvFileList() {
@@ -58,7 +60,7 @@ public class Diae {
         //example:
         //D:\java-projects\personal\rest\dialoguer\src\main\resources\pathcsv
         //user of code may differ.
-        String path = new File(basePath + "/src/main/resources/pathcsv").getAbsolutePath();
+        String path = new File(basePath + "/src/main/resources/csvxivapi").getAbsolutePath();
         System.out.println("location of csv files:  " + path);
         System.out.println("---------------------------------------------------------------------------------------------------");
         return path;
@@ -77,7 +79,7 @@ public class Diae {
             for (int i = 0; i < csvFileList.length; i++) {
                 //get the filepath of the file name.
                 path = csvFileList[i];
-                is = Diae.class.getResourceAsStream("/pathcsv/" + path);
+                is = Diae.class.getResourceAsStream("/csvxivapi/" + path);
                 assert is != null;
                 Reader targetReaderConvert = new InputStreamReader(is);
 
@@ -85,6 +87,7 @@ public class Diae {
                 List<String[]> currentCSVContents = reader.readAll();
 
                 collectAllNameInstances(currentCSVContents, fullListOfNameInstances);
+                total = fullListOfNameInstances.size();
                 result = formatAllNameInstances(fullListOfNameInstances);
             }
 
@@ -125,9 +128,14 @@ public class Diae {
     }
 
     public static void collectAllNameInstances(List<String[]> csvContents, ArrayList<String> target) {
+        boolean alreadyDetected = false;
         for (int j = 0; j < csvContents.size(); j++) {
             for (int k = 0; k < csvContents.get(j).length; k++) {
                 if (containsCaseInsensitive(CHAR_NAME,csvContents.get(j)[k])) {
+                    if (!alreadyDetected){
+                        isInFileCount++;
+                    }
+                    alreadyDetected = true;
                     ArrayList<String> currentCsvNameInstances = new ArrayList<>();
                     StringBuilder textFormatter = new StringBuilder();
                     textFormatter.
@@ -169,8 +177,8 @@ public class Diae {
         System.out.println(finalizedResult);
 
 
-        System.out.println("---------------------------------------------------------------------------------------------------\n" + "Done!" +
-                /*allNameInstances.size() + */ " Instances of the name '" + CHAR_NAME + "' within " + csvFileList.length + " Files.");
+        System.out.println("---------------------------------------------------------------------------------------------------\n" + "Done! " +
+                /*allNameInstances.size() + */ total + " Instances of the name '" + CHAR_NAME + "' found in " + isInFileCount + " of " + csvFileList.length + " total files.");
 
     }
 
