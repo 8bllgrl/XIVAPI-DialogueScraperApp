@@ -1,7 +1,0 @@
-Character is speaking:
-
-Character is mentioned:
-TEXT_HEAVNA306_01607_LANCER01607_000_010 -- Nay, I know of no heretics. Do you honestly expect me to keep track of every Raitmeaux, Vairemont, and Bertennant that wanders in and out of camp?
-
-TEXT_HEAVNA306_01607_LANCER01607_000_011 -- Nay, I know of no heretics. Do you honestly expect me to keep track of every Raitmeaux, Vairemont, and Bertennant that wanders in and out of camp?
-

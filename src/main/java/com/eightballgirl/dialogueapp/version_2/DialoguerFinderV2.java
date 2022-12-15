@@ -13,9 +13,12 @@ import java.nio.file.Paths;
 import java.util.*;
 
 
+//one of the versions should extend the other and override the methods that need changed.
 public class DialoguerFinderV2 {
 
     public static /*final*/ String CHAR_NAME = "Estinien";
+    public static final int DIALOGUE_COLUMN = 2;
+    public static final int SPEAKER_COLUMN = 1;
     public static boolean useScanner = false;
     public static int total;
     public static ArrayList<String> fullAbsoluteListOfFiles = new ArrayList<>();
@@ -166,24 +169,30 @@ public class DialoguerFinderV2 {
                 StringBuilder textFormatter = new StringBuilder();
 
                 //making sure that errors are accounted for, like WOL or special characters.
-                while (csvContents.get(j)[2].contains("<If(PlayerParameter(4))>her<Else/>his</If>")) {
-                    csvContents.get(j)[2] = csvContents.get(j)[2].replace("<If(PlayerParameter(4))>her<Else/>his</If>", "[his/her]");
+                while (csvContents.get(j)[DIALOGUE_COLUMN].contains("<If(PlayerParameter(4))>her<Else/>his</If>")) {
+                    csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[DIALOGUE_COLUMN].replace("<If(PlayerParameter(4))>her<Else/>his</If>", "[his/her]");
                 }
-                while (csvContents.get(j)[2].contains("─")) {
-                    csvContents.get(j)[2] = csvContents.get(j)[2].replace("─", "--");
+                while (csvContents.get(j)[DIALOGUE_COLUMN].contains("─")) {
+                    csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[DIALOGUE_COLUMN].replace("─", "--");
                 }
-                while (csvContents.get(j)[2].contains("â\u20AC€")) {
-                    csvContents.get(j)[2] = csvContents.get(j)[2].replace("â\u20ac€", "-");
+                while (csvContents.get(j)[DIALOGUE_COLUMN].contains("â\u20AC€")) {
+                    csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[DIALOGUE_COLUMN].replace("â\u20ac€", "-");
+                }
+                while (csvContents.get(j)[DIALOGUE_COLUMN].contains("<Highlight>ObjectParameter(1)</Highlight>") || csvContents.get(j)[DIALOGUE_COLUMN].contains("<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>")){
+                    csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[2].replace("<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>", "[WARRIOR OF LIGHT]");
+
+                    csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[2].replace("<Highlight>ObjectParameter(1)</Highlight>", "[WARRIOR OF LIGHT]");
+
                 }
 
-                if (csvContents.get(j)[1].contains("VOICEMAN")) {
+                if (csvContents.get(j)[SPEAKER_COLUMN].contains("VOICEMAN")) {
                     textFormatter.append("C>> ");
                 } else {
                     textFormatter.append("Q>> ");
                 }
                 textFormatter.
 
-                        append(csvContents.get(j)[2])
+                        append(csvContents.get(j)[DIALOGUE_COLUMN])
                         .append("\n")
                 ;
                 target.add(textFormatter.toString());
