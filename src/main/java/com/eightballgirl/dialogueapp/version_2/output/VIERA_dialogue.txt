@@ -1,0 +1,503 @@
+Character is speaking:
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_FEMALE_TYPE1 -- What will it be, love?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_FEMALE_TYPE2 -- Your orders! I would hear them at once!
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_FEMALE_TYPE3 -- If there is something you would ask of me, then ask it.
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_FEMALE_TYPE4 -- Yes...? Is there something youâ”€<yawn>â”€need?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_FEMALE_TYPE5 -- A task for me? I hope it's something fun!
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_FEMALE_TYPE6 -- I am here to do your every bidding, <If(PlayerParameter(4))>Mistress<Else/>Master</If>! Ask of me anything at all!
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_MALE_TYPE1 -- I have been awaiting your summons, <If(PlayerParameter(4))>madam<Else/>sir</If>. What would you have of me this fine <If(LessThan(PlayerParameter(11),12))><If(LessThan(PlayerParameter(11),4))>evening<Else/>morning</If><Else/><If(LessThan(PlayerParameter(11),17))>day<Else/>evening</If></If>?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_MALE_TYPE2 -- What can I do for ye, yer <If(PlayerParameter(4))>ladyship<Else/>lordship</If>?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_MALE_TYPE3 -- You called, <If(PlayerParameter(4))>madam<Else/>sir</If>...?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_MALE_TYPE4 -- Youâ”€hicâ”€rang?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_MALE_TYPE5 -- Need my assistance, do you? Let's make this quick, then.
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER_VIERA_MALE_TYPE6 -- You have my ear, <If(PlayerParameter(4))>milady<Else/>milord</If>. Both of them, in fact!
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_FEMALE_TYPE1 -- Must we part so soon?
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_FEMALE_TYPE2 -- And I am off!
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_FEMALE_TYPE3 -- Call on me as you please. If I am so inclined, I will answer.
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_FEMALE_TYPE4 -- That is all, I suppose...? <yawn> Very well...
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_FEMALE_TYPE5 -- That is all? Oh, I was hoping there'd be more...
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_FEMALE_TYPE6 -- Is that all you need of me? But I could yet serve you in so many ways!
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_MALE_TYPE1 -- Do not hesitate to call upon me again. Fare you well in your endeavors, <If(PlayerParameter(4))>madam<Else/>sir</If>.
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_MALE_TYPE2 -- Just say the word, yer <If(PlayerParameter(4))>ladyship<Else/>lordship</If>, and I'll be here with bells on.
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_MALE_TYPE3 -- If you have no further need of my services...
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_MALE_TYPE4 -- I'm off for another glass, then. You know where to find me!
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_MALE_TYPE5 -- Whatâ”€is that it? Are you <Emphasis>sure</Emphasis> you need a retainer?
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE_VIERA_MALE_TYPE6 -- Nothing else? Then I shall be hopping along.
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_FEMALE_TYPE1 -- Anything for you, love.
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_FEMALE_TYPE2 -- Hah! Leave it to me!
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_FEMALE_TYPE3 -- A less-than-stimulating task, but I will acquiesce.
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_FEMALE_TYPE4 -- Very well...if you insist.
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_FEMALE_TYPE5 -- That certainly sounds interesting! Well, I'd best be on my way!
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_FEMALE_TYPE6 -- If that is your heart's desire, then so it shall be!
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_MALE_TYPE1 -- As you have commanded, so I will see it done!
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_MALE_TYPE2 -- Right ye are, then!
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_MALE_TYPE3 -- Very good, <If(PlayerParameter(4))>madam<Else/>sir</If>. Consider it done.
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_MALE_TYPE4 -- But of course, <If(PlayerParameter(4))>miss<Else/>sir</If>! I'm not asâ”€hicâ”€unsteady as all that!
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_MALE_TYPE5 -- I'll take care of it. Just as long as you're suitably grateful.
+
+TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_VIERA_MALE_TYPE6 -- I'll see it done in two shakes of a rabbit's tail!
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_FEMALE_TYPE1 -- I do hope it pleases you.
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_FEMALE_TYPE2 -- Behold! This is what you seek, yes!?
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_FEMALE_TYPE3 -- I believe this is what you sought of me.
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_FEMALE_TYPE4 -- The deed is done. <yawn> Now, time for a rest...
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_FEMALE_TYPE5 -- Well? Do you like it? Oh, say that you do!
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_FEMALE_TYPE6 -- Behold the fruits of my labor! I do hope it is everything you expected.
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE1 -- I trust this meets with your satisfaction, <If(PlayerParameter(4))>madam<Else/>sir</If>? After all, your contented smile is my greatest reward!
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE2 -- Does that meet with <If(PlayerParameter(4))>her ladyship<Else/>his lordship</If>'s approval? (It bloody better...)
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE3 -- No need to thank me, <If(PlayerParameter(4))>madam<Else/>sir</If>. Fulfilling one's duty is its own reward.
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE4 -- Not bad, eh? In fact, I think we should pop a cork to celebrate!
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE5 -- This is what you wanted, yes? I told you I'd take care of it.
+
+TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_VIERA_MALE_TYPE6 -- And there you have it, <If(PlayerParameter(4))>milady<Else/>milord</If>â”€all wrapped up like a Hatchingâ€“tide gift basket.
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_FEMALE_TYPE1 -- I was hoping you would call, love.
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_FEMALE_TYPE2 -- What is the matter? Why do you summon me back so soon!?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_FEMALE_TYPE3 -- I trust there is a good reason for this interruption?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_FEMALE_TYPE4 -- <yawn> You do know I was in the middle of something...yes?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_FEMALE_TYPE5 -- What is it this time? I was just beginning to have some fun...
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_FEMALE_TYPE6 -- You frightened me, <If(PlayerParameter(4))>Mistress<Else/>Master</If>! Is something the matter!?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_MALE_TYPE1 -- I rushed back as soon as I heard your call. You have need of my services? 
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_MALE_TYPE2 -- I'm a bit sodding busy, yer <If(PlayerParameter(4))>ladyship<Else/>lordship</If>. Ye get mud on yer shiny boots, or summat?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_MALE_TYPE3 -- Was there something else, <If(PlayerParameter(4))>madam<Else/>sir</If>...?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_MALE_TYPE4 -- What is it? What's wrong? ...Aside from me missing my favorite barstool?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_MALE_TYPE5 -- Yes? This is interfering with <Emphasis>your</Emphasis> venture, just so you know.
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER2_VIERA_MALE_TYPE6 -- Is something amiss? Or did you simply miss <Emphasis>me</Emphasis>?
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_FEMALE_TYPE1 -- If ever you're feeling lonely, I am but a ring of the bell away.
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_FEMALE_TYPE2 -- I am off! At least until you call me back again...
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_FEMALE_TYPE3 -- The road calls me again.
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_FEMALE_TYPE4 -- <yawn> I really could use a nap...
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_FEMALE_TYPE5 -- Well, back to the grind! I do hope you appreciate all this!
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_FEMALE_TYPE6 -- If that is all, I shall return to my task. Ah, the joy of adventure!
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_MALE_TYPE1 -- Are you certain? If needs be, I can return at a moment's notice!
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_MALE_TYPE2 -- If that'll be all, I'll get back to that other thing ye asked me to do.
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_MALE_TYPE3 -- If you've no further need of me, I shall return to my assigned task.
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_MALE_TYPE4 -- I'll head back out, then. Duty first, debauchery second!
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_MALE_TYPE5 -- Hmph. You're sure that's everything? I'd rather not be running back and forth, if it's all the same to you.
+
+TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_VIERA_MALE_TYPE6 -- I really must be on the road again. Pray no harm befalls my soft, furry hide!
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_FEMALE_TYPE1 -- I have returned, love. And do I have a tale to tell...
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_FEMALE_TYPE2 -- Hah! Now <Emphasis>that</Emphasis> was a venture for the ages!
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_FEMALE_TYPE3 -- There are places I would rather be, yet here I am. Be grateful.
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_FEMALE_TYPE4 -- <yawn> Oh...that's right. I had something to tell you.
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_FEMALE_TYPE5 -- I've returned! Come now, are you not happy to see me?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_FEMALE_TYPE6 -- I could scarcely wait to return to your side, <If(PlayerParameter(4))>Mistress<Else/>Master</If>!
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_MALE_TYPE1 -- I am returned! And I have come bearing a gift.
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_MALE_TYPE2 -- About damn time! My ears were twitching summat fierce listening out for that bell...
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_MALE_TYPE3 -- I believe this concludes your venture, <If(PlayerParameter(4))>madam<Else/>sir</If>...
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_MALE_TYPE4 -- I have returned, and gods have I worked up a thirst! Oh, and this is for you!
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_MALE_TYPE5 -- I did what you asked. You'll be wanting my full report, then?
+
+TEXT_CMNDEFRETAINERBELL_00544_ENTER3_VIERA_MALE_TYPE6 -- Wait until you see the goods I got my paws on!
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE1 -- (-Polite Viera Female-)What will it be, love?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE1 -- (-Polite Viera Female-)What will it be, love?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE2 -- (-Rough Viera Female-)Your orders! I would hear them at once!
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE2 -- (-Rough Viera Female-)Your orders! I would hear them at once!
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE3 -- (-Serious Viera Female-)If there is something you would ask of me, then ask it.
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE3 -- (-Serious Viera Female-)If there is something you would ask of me, then ask it.
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE4 -- (-Carefree Viera Female-)Yes...? Is there something youâ”€<yawn>â”€need?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE4 -- (-Carefree Viera Female-)Yes...? Is there something youâ”€<yawn>â”€need?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE5 -- (-Independent Viera Female-)A task for me? I hope it's something fun!
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE5 -- (-Independent Viera Female-)A task for me? I hope it's something fun!
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE6 -- (-Lively Viera Female-)I am here to do your every bidding, <If(PlayerParameter(4))>Mistress<Else/>Master</If>! Ask of me anything at all!
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_FEMALE_TYPE6 -- (-Lively Viera Female-)I am here to do your every bidding, <If(PlayerParameter(4))>Mistress<Else/>Master</If>! Ask of me anything at all!
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE1 -- (-Polite Viera Male-)I have been awaiting your summons, <If(PlayerParameter(4))>madam<Else/>sir</If>. What would you have of me this fine <If(LessThan(PlayerParameter(11),12))><If(LessThan(PlayerParameter(11),4))>evening<Else/>morning</If><Else/><If(LessThan(PlayerParameter(11),17))>day<Else/>evening</If></If>?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE1 -- (-Polite Viera Male-)I have been awaiting your summons, <If(PlayerParameter(4))>madam<Else/>sir</If>. What would you have of me this fine <If(LessThan(PlayerParameter(11),12))><If(LessThan(PlayerParameter(11),4))>evening<Else/>morning</If><Else/><If(LessThan(PlayerParameter(11),17))>day<Else/>evening</If></If>?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE2 -- (-Rough Viera Male-)What can I do for ye, yer <If(PlayerParameter(4))>ladyship<Else/>lordship</If>?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE2 -- (-Rough Viera Male-)What can I do for ye, yer <If(PlayerParameter(4))>ladyship<Else/>lordship</If>?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE3 -- (-Serious Viera Male-)You called, <If(PlayerParameter(4))>madam<Else/>sir</If>...?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE3 -- (-Serious Viera Male-)You called, <If(PlayerParameter(4))>madam<Else/>sir</If>...?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE4 -- (-Carefree Viera Male-)Youâ”€hicâ”€rang?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE4 -- (-Carefree Viera Male-)Youâ”€hicâ”€rang?
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE5 -- (-Independent Viera Male-)Need my assistance, do you? Let's make this quick, then.
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE5 -- (-Independent Viera Male-)Need my assistance, do you? Let's make this quick, then.
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE6 -- (-Lively Viera Male-)You have my ear, <If(PlayerParameter(4))>milady<Else/>milord</If>. Both of them, in fact!
+
+TEXT_CMNDEFRETAINERDESK_00009_ENTER_VIERA_MALE_TYPE6 -- (-Lively Viera Male-)You have my ear, <If(PlayerParameter(4))>milady<Else/>milord</If>. Both of them, in fact!
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE1 -- (-Polite Viera Female-)Must we part so soon?
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE1 -- (-Polite Viera Female-)Must we part so soon?
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE2 -- (-Rough Viera Female-)And I am off!
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE2 -- (-Rough Viera Female-)And I am off!
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE3 -- (-Serious Viera Female-)Call on me as you please. If I am so inclined, I will answer.
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE3 -- (-Serious Viera Female-)Call on me as you please. If I am so inclined, I will answer.
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE4 -- (-Carefree Viera Female-)That is all, I suppose...? <yawn> Very well...
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE4 -- (-Carefree Viera Female-)That is all, I suppose...? <yawn> Very well...
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE5 -- (-Indepedent Viera Female-)That is all? Oh, I was hoping there'd be more...
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE5 -- (-Indepedent Viera Female-)That is all? Oh, I was hoping there'd be more...
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE6 -- (-Lively Viera Female-)Is that all you need of me? But I could yet serve you in so many ways!
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_FEMALE_TYPE6 -- (-Lively Viera Female-)Is that all you need of me? But I could yet serve you in so many ways!
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE1 -- (-Polite Viera Male-)Do not hesitate to call upon me again. Fare you well in your endeavors, <If(PlayerParameter(4))>madam<Else/>sir</If>.
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE1 -- (-Polite Viera Male-)Do not hesitate to call upon me again. Fare you well in your endeavors, <If(PlayerParameter(4))>madam<Else/>sir</If>.
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE2 -- (-Rough Viera Male-)Just say the word, yer <If(PlayerParameter(4))>ladyship<Else/>lordship</If>, and I'll be here with bells on.
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE2 -- (-Rough Viera Male-)Just say the word, yer <If(PlayerParameter(4))>ladyship<Else/>lordship</If>, and I'll be here with bells on.
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE3 -- (-Serious Viera Male-)If you have no further need of my services...
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE3 -- (-Serious Viera Male-)If you have no further need of my services...
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE4 -- (-Carefree Viera Male-)I'm off for another glass, then. You know where to find me!
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE4 -- (-Carefree Viera Male-)I'm off for another glass, then. You know where to find me!
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE5 -- (-Independent Viera Male-)Whatâ”€is that it? Are you <Emphasis>sure</Emphasis> you need a retainer?
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE5 -- (-Independent Viera Male-)Whatâ”€is that it? Are you <Emphasis>sure</Emphasis> you need a retainer?
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE6 -- (-Lively Viera Male-)Nothing else? Then I shall be hopping along.
+
+TEXT_CMNDEFRETAINERDESK_00009_LEAVE_VIERA_MALE_TYPE6 -- (-Lively Viera Male-)Nothing else? Then I shall be hopping along.
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE1 -- What will it be, love?
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE2 -- Your orders! I would hear them at once!
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE3 -- If there is something you would ask of me, then ask it.
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE4 -- Yes...? Is there something youâ”€<yawn>â”€need?
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE5 -- A task for me? I hope it's something fun!
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE6 -- I am here to do your every bidding, <If(PlayerParameter(4))>Mistress<Else/>Master</If>! Ask of me anything at all!
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE1 -- I have been awaiting your summons, <If(PlayerParameter(4))>madam<Else/>sir</If>. What would you have of me this fine <If(LessThan(PlayerParameter(11),12))><If(LessThan(PlayerParameter(11),4))>evening<Else/>morning</If><Else/><If(LessThan(PlayerParameter(11),17))>day<Else/>evening</If></If>?
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE2 -- What can I do for ye, yer <If(PlayerParameter(4))>ladyship<Else/>lordship</If>?
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE3 -- You called, <If(PlayerParameter(4))>madam<Else/>sir</If>...?
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE4 -- Youâ”€hicâ”€rang?
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE5 -- Need my assistance, do you? Let's make this quick, then.
+
+TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE6 -- You have my ear, <If(PlayerParameter(4))>milady<Else/>milord</If>. Both of them, in fact!
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE1 -- Must we part so soon?
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE2 -- And I am off!
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE3 -- Call on me as you please. If I am so inclined, I will answer.
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE4 -- That is all, I suppose...? <yawn> Very well...
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE5 -- That is all? Oh, I was hoping there'd be more...
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE6 -- Is that all you need of me? But I could yet serve you in so many ways!
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE1 -- Do not hesitate to call upon me again. Fare you well in your endeavors, <If(PlayerParameter(4))>madam<Else/>sir</If>.
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE2 -- Just say the word, yer <If(PlayerParameter(4))>ladyship<Else/>lordship</If>, and I'll be here with bells on.
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE3 -- If you have no further need of my services...
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE4 -- I'm off for another glass, then. You know where to find me!
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE5 -- Whatâ”€is that it? Are you <Emphasis>sure</Emphasis> you need a retainer?
+
+TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE6 -- Nothing else? Then I shall be hopping along.
+
+
+Character is mentioned:
+TEXT_AKTKBB101_04067_LALAHJINJAHL_000_025 -- Their leader, a Viera male, is also alleged to have stolen valuable technological secrets.
+
+TEXT_AKTKBB102_04068_SEQ_03 -- As you scan your surrounds, you chance to hear a cry for help. Together with Lalah, you rush towards the disturbance to find a man at the mercy of three assailants. Your intervention prompts the villainsâ”€a Viera man named Loifa and his two accomplicesâ”€to leave, and you turn to render aid to their intended victim.
+
+TEXT_AKTKBB102_04068_LOIFA_100_023 -- (-Angry Viera-)Look at me...
+
+TEXT_AKTKBB102_04068_LOIFA_100_024 -- (-Angry Viera-)...When I'm talking to you!
+
+TEXT_AKTKBB102_04068_LALAHJINJAHL_100_038 -- A sage besides! Speaking of which, one of your assailantsâ”€the Viera manâ”€also wielded sage magic. Was he known to you?
+
+TEXT_AKTKBB121_04070_SEQ_03 -- You arrive to find Loifa and the merchant lying in the dirt, the latter having breathed his last. Though Loifa may still be saved, Lalah hesitatesâ”€for it was her mother who died at the hands of his accomplice. At your words, however, she recognizes that there can be no justice without knowing the whole truth, and bids you render aid to the ailing Viera.
+
+TEXT_AKTKBB131_04071_SEQ_06 -- Given the seriousness of the hunter's wound, Loifa decides it is no time for training, and personally renders aid. Once back on his feet, the man offers Loifa his heartfelt gratitudeâ”€an act which spurs the young Viera to reflect upon his sage's power. Before meeting you and Lalah, he had no purpose for it except revenge. But having come to realize that Lalah's mother saw in him the potential to become a saver of lives, he swears to use his power only to protect his friends. Satisfied with your efforts, the two of you make your way back to Idyllshire to rejoin Lalah.
+
+TEXT_AKTKBB131_04071_LOIFA_000_071 -- About overcoming my illness and protecting the forest as a Wood-warder, as is the duty of Viera men. I wanted to repay my people for not giving up on me. My tribe and my master.
+
+TEXT_AKTKBB141_04072_ANCEL_000_106 -- Aye, we thought that Viera men prefer solitude, but not our Loifa. Deep down, he's a lonely little boy.
+
+TEXT_AKTKZI005_04320_SEQ_00 -- <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>î‚¾ Quest Sync<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+The Viera gleaner is watching you with interest.
+
+TEXT_AKTKZI005_04320_TODO_02 -- Deliver the lantern crystal to the Viera gleaner.
+
+TEXT_BANGNA603_02278_DRAGONPUPPY02278_100_000 -- Hehehe! Now they send <Switch(PlayerParameter(71))><Case(1)>Hyurs</Case><Case(2)>Elezen</Case><Case(3)>Lalafells</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> to challenge this mighty king of dragons to a game of tag!? You will never catch me! Tee hee!
+
+TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_001 -- Yes, there is no denying his culinary prowess, so long as he has an assistant to keep him on course, at least. On his own, well...if he were <Switch(PlayerParameter(71))><Case(1)>a Hyur</Case><Case(2)>an Elezen</Case><Case(3)>a Lalafell</Case><Case(4)>a Miqo'te</Case><Case(5)>a Roegadyn</Case><Case(6)>an Au Ra</Case><Case(7)>a Hrothgar</Case><Case(8)>a Viera</Case></Switch> like you I would say he's all thumbs.
+
+TEXT_CLSFSH580_02088_MOGUKK_000_060 -- Kupopopo!? Stay away, kupo! I've got a rod and I'm not afraid to use it! ...Hold onâ”€<sniff> <sniff>â”€what's that appetizing aroma? You look like <Switch(PlayerParameter(71))><Case(1)>a Hyur</Case><Case(2)>an Elezen</Case><Case(3)>a Lalafell</Case><Case(4)>a Miqo'te</Case><Case(5)>a Roegadyn</Case><Case(6)>an Au Ra</Case><Case(7)>a Hrothgar</Case><Case(8)>a Viera</Case></Switch> but you smell like a fish! Who in the world are you?
+
+TEXT_CLSGLD601_02599_HAL_000_170 -- W-Wait, <Emphasis>you're</Emphasis> the teacher? But...Wido said it was gonna be <Switch(PlayerParameter(71))><Case(1)>a handsome Elezen</Case><Case(2)>an exotic Au Ra</Case><Case(3)>a full-figured Roegadyn</Case><Case(4)>a gorgeous Hyur</Case><Case(5)>a petite Lalafell</Case><Case(6)>a ravishin' Miqo'te</Case><Case(7)>a voluptuous Viera</Case><Case(8)>a burly Hrothgar</Case></Switch>...
+
+TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_001 -- Well, if it isn't our favorite delivery <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch>! No new letters for you today, kupo!
+
+TEXT_FESEST101_00556_JIHLIALIAPOH_000_065 -- Oh no, it's a naughty spriggan, come to steal my lovely eggs! How lucky that I hid those ones with special cards inside around the town. Don't try to escape, or I'll have my sorceress magick you into <Switch(PlayerParameter(71))><Case(1)>a Hyur</Case><Case(2)>an Elezen</Case><Case(3)>a Lalafell</Case><Case(4)>a Miqo'te</Case><Case(5)>a Roegadyn</Case><Case(6)>an Au Ra</Case><Case(7)>a Hrothgar</Case><Case(8)>a Viera</Case></Switch>! Tee hee!
+
+TEXT_FESHLW2022TRANSFORMATION2_00802_A2_000_033 -- A Viera man who travels the world in search of esoteric curios.
+
+TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_000_021 -- The twelve beasts of the Far East, the Twelve deities of Eorzea, and the twelve surnames of Viera malesâ”€do you not find your own curiosity piqued by how the number appears in myriad cultures around the star? I cannot help but wonder if there is some connection between them we have yet to discover.
+
+TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_000_023 -- Ah, I never did tell you my name, did I? It is â€œMorisoba,â€� at present. Though we Viera who have chosen to venture from our homeland are prone to changing our names on a whim, I'm a rather unusual case. I switch between twelve different names depending on the outlook of my fortune!
+
+TEXT_FESVLT202_02219_ADVENTURELUCKTELLER2219_000_044 -- Ah, such eagerness! Well then, let us begin! Hmmm...<Switch(PlayerParameter(71))><Case(1)>a</Case><Case(2)>an</Case><Case(3)>a</Case><Case(4)>a</Case><Case(5)>a</Case><Case(6)>an</Case><Case(7)>a</Case><Case(8)>a</Case></Switch> <Switch(PlayerParameter(71))><Case(1)>Hyuran</Case><Case(2)>Elezen</Case><Case(3)>Lalafellin</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Auri</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> <Sheet(ClassJob,PlayerParameter(68),0)/>, are you?
+
+TEXT_FESVLT202_02219_COMPATIBILITYLUCKTELLER2219_000_080 -- Everyone loves to see their partner looking their best from time to time. During their next nameday, why not show off your most fashionable <Switch(PlayerParameter(71))><Case(1)>Hyuran</Case><Case(2)>Elezen</Case><Case(3)>Lalafellin</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Auri</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> outfit? It just might be the spark that brings you two even closer together.
+
+TEXT_FESVLT202_02219_COMPATIBILITYLUCKTELLER2219_000_082 -- The <Switch(PlayerParameter(71))><Case(1)>honey muffin</Case><Case(2)>tomato pie</Case><Case(3)>dark pretzel</Case><Case(4)>meat miq'abob</Case><Case(5)>stuffed cabbage</Case><Case(6)>grilled dodo</Case><Case(7)>filler</Case><Case(8)>filler</Case></Switch> is a traditional staple of <Switch(PlayerParameter(71))><Case(1)>Hyuran</Case><Case(2)>Elezen</Case><Case(3)>Lalafellin</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Auri</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> cuisine, correct? Surely a sample of such a splendid dish would show your partner how much they are appreciated. All that's required is the smallest amount of effort, and you two shall never stray from each other's sides!
+
+TEXT_FESVLT402_03083_ADVENTURELUCKTELLER03083_000_220 -- Ah, such eagerness! Well then, let us begin! Hmmm...<Switch(PlayerParameter(71))><Case(1)>a</Case><Case(2)>an</Case><Case(3)>a</Case><Case(4)>a</Case><Case(5)>a</Case><Case(6)>an</Case><Case(7)>a</Case><Case(8)>a</Case></Switch> <Switch(PlayerParameter(71))><Case(1)>Hyuran</Case><Case(2)>Elezen</Case><Case(3)>Lalafellin</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Auri</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> <Sheet(ClassJob,PlayerParameter(68),0)/>, are you?
+
+TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_411 -- Everyone loves to see their partner looking their best from time to time. During their next nameday, why not show off your most fashionable <Switch(PlayerParameter(71))><Case(1)>Hyuran</Case><Case(2)>Elezen</Case><Case(3)>Lalafellin</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Auri</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> outfit? It just might be the spark that brings you two even closer together.
+
+TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_421 -- The <Switch(PlayerParameter(71))><Case(1)>honey muffin</Case><Case(2)>tomato pie</Case><Case(3)>dark pretzel</Case><Case(4)>meat miq'abob</Case><Case(5)>stuffed cabbage</Case><Case(6)>grilled dodo</Case><Case(7)>filler</Case><Case(8)>filler</Case></Switch> is a traditional staple of <Switch(PlayerParameter(71))><Case(1)>Hyuran</Case><Case(2)>Elezen</Case><Case(3)>Lalafellin</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Auri</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> cuisine, correct? Surely a sample of such a splendid dish would show your partner how much they are appreciated. All that's required is the smallest amount of effort, and you two shall never stray from each other's sides!
+
+TEXT_FESVLT502_03206_ADVENTURELUCKTELLER03206_000_220 -- Ah, such eagerness! Well then, let us begin! Hmmm...<Switch(PlayerParameter(71))><Case(1)>a</Case><Case(2)>an</Case><Case(3)>a</Case><Case(4)>a</Case><Case(5)>a</Case><Case(6)>an</Case><Case(7)>a</Case><Case(8)>a</Case></Switch> <Switch(PlayerParameter(71))><Case(1)>Hyuran</Case><Case(2)>Elezen</Case><Case(3)>Lalafellin</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Auri</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> <Sheet(ClassJob,PlayerParameter(68),0)/>, are you?
+
+TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_411 -- Everyone loves to see their partner looking their best from time to time. During their next nameday, why not show off your most fashionable <Switch(PlayerParameter(71))><Case(1)>Hyuran</Case><Case(2)>Elezen</Case><Case(3)>Lalafellin</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Auri</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> outfit? It just might be the spark that brings you two even closer together.
+
+TEXT_FESVLT502_03206_COMPATIBILITYLUCKTELLER03206_000_421 -- The <Switch(PlayerParameter(71))><Case(1)>honey muffin</Case><Case(2)>tomato pie</Case><Case(3)>dark pretzel</Case><Case(4)>meat miq'abob</Case><Case(5)>stuffed cabbage</Case><Case(6)>grilled dodo</Case><Case(7)>filler</Case><Case(8)>filler</Case></Switch> is a traditional staple of <Switch(PlayerParameter(71))><Case(1)>Hyuran</Case><Case(2)>Elezen</Case><Case(3)>Lalafellin</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Auri</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> cuisine, correct? Surely a sample of such a splendid dish would show your partner how much they are appreciated. All that's required is the smallest amount of effort, and you two shall never stray from each other's sides!
+
+TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_021 -- Remember to come back again to...<buzzzzzz>...next week's target...<buzzzzzz>...and three <Switch(PlayerParameter(71))><Case(1)>Hyurs</Case><Case(2)>Elezen</Case><Case(3)>Lalafells</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch>... <buzzzzzz>
+
+TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_000 -- <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch>, please help! The freight-handling subsystem never received a deactivation command and has been running for five thousand and twelve years, eight months, and two days.
+
+TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_010 -- <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch>, please find and deactivate four of the non-responsive adamantite claws.
+
+TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_020 -- <beep> <beep> Freight-handling units confirmed destroyed. <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch>, you were authorized to deactivate these units. You were not authorized to destroy them!
+
+TEXT_JOBDEFGFF_00726_HATIA_000_012 -- (-Diary of a Sage, Entry V-)Muscmaloi may be the answer. We Viera have used this medicinal herb since ancient times. Though potentially poisonous, through refinement, we should be able to suppress the adverse effects.
+
+TEXT_JOBDEFGFF_00726_GUILDIVAIN_000_041 -- (-Diary of a Sage, Entry in Another Hand II-)I have acquired a subject with a tolerance for muscmaloi. A Viera who has taken the herb from childhood. Should I finally put the cavalcade of failures behind me and succeed, it will be a great step forward for all mankind.
+
+TEXT_JOBNIN560_01686_REDWAY_000_203 -- The other is <Switch(PlayerParameter(71))><Case(1)>a Hyur</Case><Case(2)>an Elezen</Case><Case(3)>a Lalafell</Case><Case(4)>a Miqo'te</Case><Case(5)>a Roegadyn</Case><Case(6)>an Au Ra</Case><Case(7)>a Hrothgar</Case><Case(8)>a Viera</Case></Switch>â”€<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>, if I'm not wrong. <If(PlayerParameter(4))>She<Else/>He</If> is famous in <If(PlayerParameter(4))>her<Else/>his</If> own right, and dangerous.
+
+TEXT_LUCKBB102_03262_SEQ_07 -- Overwhelmed by the combined might of two gunbreakers, the masked villain is forced to reveal her true identity: Ondine, one of the locals you spoke with during your investigation. She, like Editha, is a harpsichordist, although her popularity waned as her followers deserted her in favor of her young rival. Her hatred festering within her, Ondine sought the cooperation of local highwaymen, and even hired them to assassinate Editha on the road through the Shroud. In a bizarre turn of events, Sophie's distinctive Viera ears were mistaken for the musician's trademark bunny crown adornment, leading the bandits to attack Sophie instead. While your assignment has ended successfully, there is one more matter Editha wishes to discuss with you in privateâ”€a secret to which even her manager Lassenchou cannot be made privy.
+
+TEXT_LUCKBB102_03262_EDITHA_000_080 -- Ho ho! These ones aren't real Viera ears! At least I don't think so... Actually, I was wondering if I might have a word in private with the three of you?
+
+TEXT_LUCKHT001_03848_A2_000_001 -- You've come to the right <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch>! Or I've come to you... In any case, I'll do it. Yes.
+
+TEXT_LUCKMA102_03280_A2_000_106 -- Um, I'm actually <Switch(PlayerParameter(71))><Case(1)>a Hyur</Case><Case(2)>an Elezen</Case><Case(3)>a Lalafell</Case><Case(4)>a Miqo'te</Case><Case(5)>a Roegadyn</Case><Case(6)>an Au Ra</Case><Case(7)>a Hrothgar</Case><Case(8)>a Viera</Case></Switch>...
+
+TEXT_REGHIN3WANDERINGWRITER_00435_A3_000_000 -- About Viera culture.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_A3_000_001 -- About Viera physiology.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_600 -- Ah, yes. I have learned much of the leporine folk during my travels, so let us start off with the most basic of detailsâ”€there exist two distinct clans, the light-skinned Veena Viera, and the darker-skinned Rava Viera.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_601 -- The word Viera itself means â€œpeople of the wood,â€� and true to that name, both the Rava and the Veena make their homes exclusively in the Golmore Jungle, or the primeval forests which line the southwestern foothills of the Skatay Range, respectively.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_602 -- Until recentlyâ”€perhaps the past several generationsâ”€a Viera living outside her homeland was unheard of, and those who abandoned their tribes were branded outcasts.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_603 -- You see, the Viera follow a strict code called the â€œGreen Wordâ€� that binds them to their land and prohibits all contact with the outside world unless absolutely necessary.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_604 -- Similar to that of the Miqo'te Keepers of the Moon, the Viera's societal hierarchy is strictly matriarchal. You will find no males in the villages of both the Veena and the Rava, let alone in positions of rule.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_605 -- Yet, that does not mean they do not play an important role in Viera society. The males take up the mantle of Wood-warderâ”€protectors of the forestâ”€and serve their tribes by seeing no evil encroach on their tribe's sacred demesne.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_607 -- In other words, tread not the wood with hopes of finding a male Viera, for you will be met with naught but disappointment...or worse, death.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_608 -- This, however, is not to discredit the martial prowess of female Viera. The women of the wood are as formidable as the men, and merely choose to devote their attention to the protection of their hearth and young.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_610 -- I spent many a moon in the Desert Sapphire, and while I saw all manner of wondrous creatures, not once did I lay mine eyes upon a male Viera, nor did I hear of one living in the city. They simply do not exist to us.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_620 -- For the Viera, the hands of time move at a far more leisurely pace than they do for the rest of us. Whereas a Hyur might consider themselves fortunate to see, say, eighty winters before <If(PlayerParameter(4))>her<Else/>his</If> return to the Lifestream, a Viera can endure up to twelve score or more.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_621 -- It is estimated that upwards of eight in ten Viera are born female, though it is not until at least the thirteenth namedayâ”€when the individual moves from adolescence into adulthoodâ”€that the individual's gender becomes apparent.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_622 -- Then, for the next two centuries will the Viera maintain its physical youth, rendering it nigh impossible to discern one's age simply from outward appearances.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_623 -- When it is revealed that a Viera kit is a male, it will be given into the care of another, that it may learn the ways of the Wood-warderâ”€protectors of the forest.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_624 -- Once every three to five summers, male Viera will descend from the trees to a nearby village to mate.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_628 -- As I explained before, the duty of a male Vieraâ”€a Wood-warderâ”€is to see that their tribe's demesne remain untouched by the destructive whims of outsiders. Yet, they do so from the shadows, oft choosing to shoot first, and not even bother with questions.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_630 -- Efforts by past kings to bring Viera lands under Dalmascan rule have been met with either indifference or violence. As of late, Rabanastre has suffered the Viera their self-governance, with the promise the villages will not take up their bows against the throne.
+
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_631 -- When I was younger and far more the fool than I am now, I asked a Viera if she did not find her tribe's ways awkward. Was it not within the natural order for males and females of a species to coexist?
+
+TEXT_REGHINCOMPANYMENMBERS2V43_00494_BEWITCHINGMEMBER_000_250 -- The Viera possess a beauty that cannot be matched by other races. Yet how they stalk the jungle in those stilettos, perhaps we will never know.
+
+TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_050 -- You spoke with a Viera, you say? How exotic! I recall reading that following the Empire's occupation of Dalmasca, several imperial army units were sent into the jungles to round up the hares and bring them to Rabanastre.
+
+TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_051 -- As you might imagine, only a few of the soldiers returned...and the few Viera with them appeared to have followed on their own volition.
+
+TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_052 -- Those Viera who have taken up residence in the cities tend to be held in high regard, their small numbers lending to their air of mystery. It is not unheard of for members of the upper class to part with great deals of their wealth simply to be seen with one of the elusive ladies.
+
+TEXT_REGHINCOMPANYMENMBERS3V45_00542_PRETTYMEMBER_000_050 -- Of course I've heard of the Viera! Where did you think I got the ideas for half the company's wardrobe?
+
+TEXT_REGHINCOMPANYMENMBERS3V45_00542_MUSCULARMEMBER_000_050 -- Where is this Viera of whom you speak? Not much in the way of meat on their bones...yet nor is there a surfeit of unnecessary flesh.
+
+TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_053 -- This all must be especially difficult for the Viera. Despite their differences in culture and appearance, they had long been accepted by the Dalmascansâ”€treated as equals. Now...
+
+TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_080 -- I was secretly hoping you'd regale me with tales of the Viera and their tribes' strange ways...but I fear now is not the proper time. Perhaps another day...when the principal's daughter is safe.
+
+TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_004 -- Ah, and one cannot speak of Golmore without mention of its enigmatic inhabitants. As you know, the rain forest is also home to the Viera, self-proclaimed guardians of the wood.
+
+TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_006 -- Still, many Viera continue their adherence to a strict code that has governed their people since ere the age of Ivaliceâ”€none may enter their jungle, and none may leave.
+
+TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_500_007 -- To the Viera, Golmore is sacred ground, and they will not suffer what they view as the desecration of their sovereign domain by outsiders. This is especially true for those who would dare hunt their lands.
+
+TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKSEVEN_000_285 -- (-<Emphasis>Cultivation Guidelines: Prohibited Items (Revision 34)</Emphasis>-)<Emphasis>Muscmaloi grows wild in the Skatay Range, and generations of the local Viera have harvested the herb for medicinal treatments. Despite this precedent, however, we must consider muscmaloi too dangerous to allow its cultivation without authorized oversight.</Emphasis>
+
+TEXT_STMBDI201_03089_MIKOTO_000_303 -- Dalmasca has long been known as a melting pot for myriad culturesâ”€where minor races such as the Seeq, the Bangaa, and the Viera might live in relative harmony with Hyur, Elezen, and others.
+
+TEXT_STMBDI301_03187_MONTBLANC_000_180 -- Why, certainly! That verdant valley of vines and vipers to where we must voyage next is home to the Vieraâ”€and therein lies our little problem. The one thing the Viera do not suffer is trespassers, not even lovable moogles, kupo!
+
+TEXT_STMBDI301_03187_HURDY_000_181 -- Our glamours kept us hidden long enough to see the jungle was teeming with ruins much like those we've discovered in Lesalia and Goug, but the Viera trackers eventually found us and took us before their elders. We barely escaped with our poms, kupo!
+
+TEXT_STMBDI301_03187_JENOMISLEXENTALE_000_183 -- There are Viera who have spurned the strict code of their tribes, abandoning their people to come and live in the cities of Dalmasca. Finding and recruiting one to our cause might provide us with insight into how to reach the Orbonne Monastery ruins.
+
+TEXT_STMBDI301_03187_BWAGI_000_244 -- Golmore? You of all creatures should know that is Viera land. What are you offering, then?
+
+TEXT_STMBDI301_03187_MONTBLANC_000_332 -- I knew it! A Viera!
+
+TEXT_STMBDI301_03187_BWAGI_000_335 -- And yes, moogle. I am a Viera. Are you surprised?
+
+TEXT_STMBDI301_03187_BWAGI_100_335 -- And yes, moogle. I am a Viera. Are you surprised?
+
+TEXT_STMBDI302_03188_JENOMISLEXENTALE_000_041 -- The Viera have ever been wary of outsiders. For centuries their many tribes have remained hidden in the jungles, content with their self-imposed solitude.
+
+TEXT_STMBDI302_03188_JENOMISLEXENTALE_000_042 -- Each tribe has its own strict code and will mete swift punishment to any who would defy these laws. As such, many a Viera will spend her entire life bound to the territory of her ancestors, both unwilling and unable to venture beyond its borders.
+
+TEXT_STMBDI302_03188_JENOMISLEXENTALE_000_044 -- That said, with every generation there are those Viera who long for a life beyond the verdant sea of trees and abandon their tribes to start a new life in the kingdom's cities. My guess is that this Fran is one such individual.
+
+TEXT_STMBDI311_03190_BWAGI_000_062 -- (-Bwagi-)Enough Dalmascan red to keep a Bangaa happy for a long, long time. Amongst the royal sommeliers there was a Viera like Lady Fran. When word came the Garleans were approaching, she ordered the entirety of the Royal Palace's cellars delivered here where they'd be safe from the Empire.
+
+TEXT_STMBDZ205_02677_HAYAMA_000_001 -- Ahâ”€at second glance, you appear to be far stronger than the average <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch>. Perhaps there is something you can help me with. Lately we've been seeing eerie flashing lights along the eastern coast of Sakazuki.
+
+TEXT_SUBCTS811_01432_RETAINER01432_000_034 -- Forgive me, Master, I was waylaid by beasts. ...Yes, by <Switch(PlayerParameter(71))><Case(1)>a Hyuran</Case><Case(2)>an Elezen</Case><Case(3)>a Lalafellin</Case><Case(4)>a Miqo'te</Case><Case(5)>a Roegadyn</Case><Case(6)>an Auri</Case><Case(7)>a Hrothgar</Case><Case(8)>a Viera</Case></Switch> <Sheet(ClassJob,PlayerParameter(68),0)/>! How did you know? ...Of course, as you wish.
+
+TEXT_SUBPST000_01481_SEQ_02 -- As Ryssfloh thanks you for your kindness, the delivery moogle responsible for the confusion appears, offering a profuse apology. It would seem that the burgeoning adventurer population has brought about an influx of letters, far too many to be properly delivered by the paws of moogles alone. Recognizing your talents, he offers to initiate you into their ranks. With the furry courier not likely to take no for an answer, you resolve to make the most of your new career as a delivery <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch>.
+
+TEXT_SUBPST000_01481_LETTERMOOGLE_000_019 -- Oh, you are too kindâ”€the kindest, good sir! As for <Emphasis>you</Emphasis>, my adventuring friend, I daresay you would make a superlative delivery <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> if you put your mind to it.
+
+TEXT_SUBPST000_01481_Q1_000_000 -- Do you want to be a delivery <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch>, kupo?
+
+TEXT_SUBPST000_01481_LETTERMOOGLE_110_023 -- (-Deputy Postmoogle-)Mind you, until you prove yourself, I will be overseeing all your deliveries to ensure that you do not shirk or slack in your duties. Not that a dutiful delivery <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> like you would even consider such a thing, yes?
+
+TEXT_SUBPST012_01572_LETTERMOOGLE_000_005 -- Ah, to live life as a fish! Swimming along amidst the waves, going wherever the current takes you. Just as a delivery <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> goes wherever the address on <If(PlayerParameter(4))>her<Else/>his</If> envelope takes <If(PlayerParameter(4))>her<Else/>him</If>. How fitting indeed that yours is marked for Fisherman's Bottom, kupo!
+
+TEXT_SUBPST023_00243_LETTERMOOGLE_000_002 -- I was going to break the news to Master Zango myself, but who am I to deny an upâ€“andâ€“coming delivery <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> such valuable experience? It's not often our service fails in its duties, so you'll have to be at your sycophantic best if he's to accept your apology.
+You'll find Mister Zango just around the corner, in the Octant. Good luck, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>! The reputation of the moogle delivery service rests on your shoulders, kupo!
+
+TEXT_SUBPST030_00362_KOWAGARIMOOGLE_000_021 -- Why, thank you! I daresay you've given me the strength to carry on a bitâ”€wait a moment, I know you! You're the loyal delivery <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> the deputy postmoogle is always talking about, kupo!
+
+TEXT_SUBWIL101_01429_SEQ_07 -- You have taken your leave of Botulf. Let us hope that his moment of sudden clarity will persist, and he will refrain from trying to cadge coin from every <Switch(PlayerParameter(71))><Case(1)>Hyur</Case><Case(2)>Elezen</Case><Case(3)>Lalafell</Case><Case(4)>Miqo'te</Case><Case(5)>Roegadyn</Case><Case(6)>Au Ra</Case><Case(7)>Hrothgar</Case><Case(8)>Viera</Case></Switch> that drops by.
+

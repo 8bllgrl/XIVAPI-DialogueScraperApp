@@ -13,7 +13,7 @@ import java.util.*;
 
 public class DialogueFinderV1 {
 
-    public static /*final*/ String CHAR_NAME = "Haurchefant";
+    public static /*final*/ String CHAR_NAME = "Estinien";
     public static boolean useScanner = false;
     public static int total;
     public static int isInFileCount;
@@ -169,7 +169,7 @@ public class DialogueFinderV1 {
     }
 
     public static void writeToFile(String finalizedText) {
-        String pathname = basePath + "/src/main/output/" + CHAR_NAME.toUpperCase() + "_dialogue.txt";
+        String pathname = basePath + "\\src\\main\\java\\com\\eightballgirl\\dialogueapp\\version_2\\output\\" + CHAR_NAME.toUpperCase() + "_dialogue.txt";
         Path path = Paths.get(pathname);
         try {
             Files.writeString(path, finalizedText, StandardCharsets.UTF_8);
@@ -201,9 +201,11 @@ public class DialogueFinderV1 {
         String finalizedResult = hard_readCSVFiles(csvFileList);
         System.out.println(finalizedResult);
 
+        writeToFile(finalizedResult);
+
         //write finalized result to file location
-//        writeToFile(finalizedResult);
-        writeToFile(finalizedResult, "D:/java/Projects/java-rest&json/XIVDialogue_output/" + CHAR_NAME.toUpperCase() + "_dialogue.txt");
+
+//        writeToFile(finalizedResult, "D:/java/Projects/java-rest&json/XIVDialogue_output/" + CHAR_NAME.toUpperCase() + "_dialogue.txt");
 
 
         System.out.println("---------------------------------------------------------------------------------------------------\n" + "Done! " +

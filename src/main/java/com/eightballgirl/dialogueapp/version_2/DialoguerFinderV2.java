@@ -169,12 +169,14 @@ public class DialoguerFinderV2 {
                 while (csvContents.get(j)[2].contains("<If(PlayerParameter(4))>her<Else/>his</If>")) {
                     csvContents.get(j)[2] = csvContents.get(j)[2].replace("<If(PlayerParameter(4))>her<Else/>his</If>", "[his/her]");
                 }
-                while (csvContents.get(j)[2].contains("â€“")) {
-                    csvContents.get(j)[2] = csvContents.get(j)[2].replace("â€“", "-");
-
+                while (csvContents.get(j)[2].contains("─")) {
+                    csvContents.get(j)[2] = csvContents.get(j)[2].replace("─", "--");
+                }
+                while (csvContents.get(j)[2].contains("â\u20AC€")) {
+                    csvContents.get(j)[2] = csvContents.get(j)[2].replace("â\u20ac€", "-");
                 }
 
-                if (csvContents.get(j)[1].contains("VOICEMAN")){
+                if (csvContents.get(j)[1].contains("VOICEMAN")) {
                     textFormatter.append("C>> ");
                 } else {
                     textFormatter.append("Q>> ");
@@ -231,7 +233,7 @@ public class DialoguerFinderV2 {
     }
 
     public static void writeToFile(String finalizedText) {
-        String pathname = basePath + "\\src\\main\\java\\com\\eightballgirl\\dialogueapp\\version_2\\output\\" + CHAR_NAME.toUpperCase() + "_dialogue.txt";
+        String pathname = basePath + "\\src\\main\\java\\com\\eightballgirl\\dialogueapp\\version_2\\output\\" + CHAR_NAME.toUpperCase() + "_dialogueAbridged.txt";
         Path path = Paths.get(pathname);
         try {
             Files.writeString(path, finalizedText, StandardCharsets.UTF_8);
@@ -242,7 +244,7 @@ public class DialoguerFinderV2 {
             System.out.println("Could not write to file!");
         }
         String soutpath = new File(pathname).getAbsolutePath();
-        System.out.println("location of '" + CHAR_NAME.toUpperCase() + "_dialogue.txt'" + " file :  ");
+        System.out.println("location of '" + CHAR_NAME.toUpperCase() + "_dialogueAbridged.txt'" + " file :  ");
         System.out.println(soutpath);
     }
 
@@ -348,7 +350,9 @@ public class DialoguerFinderV2 {
 //        System.out.println("Location of file:");
 //        System.out.println();
         System.out.println("Powered by xivapi. " + "https://xivapi.com/" + "Created by Sage Belknap.  All Final Fantasy XIV content is property of Square Enix Co., LTD.");
+        System.out.println("\u20AC");
     }
+
 }
 
 //to return diff between cutscene and quest just look for VOICEMAN (cutscene)

@@ -1,0 +1,112 @@
+Character is speaking:
+TEXT_LUCKBB221_03252_EXCITEDDUSKWIGHT03252_000_203 -- Hm!? Begone, meddlers. Leave us to our dancing.
+
+TEXT_LUCKBB221_03252_EXCITEDDUSKWIGHT03252_000_204 -- Wh-What in the...!? My legs...it's as if they have a mind of their own!
+
+
+Character is mentioned:
+TEXT_AKTKBB211_04075_DRUSILLA_000_009 -- Now that's a promisin' start, but those woods are crawlin' with bandits and brigands of all sorts. Duskwights and Keepers are said to come in ghostly hues. Are we sure this man ain't one of them?
+
+TEXT_CLSGLA100_00261_SEQ_02 -- Arriving at Stonesthrow, you are ambushed by two Duskwight freelancers, but succeed in vanquishing them both. Speak with the gutless gladiator and ascertain that he is unharmed.
+
+TEXT_CLSGLA100_00261_MYLLA_000_64 -- But what brought Duskwight freelancers all the way from the Black Shroud?
+
+TEXT_CLSGLA100_00261_QIB_TODO001 -- Defeat the Duskwight freelancers!
+
+TEXT_CLSGLA101_00288_SEQ_02 -- Arriving at Stonesthrow, you are ambushed by two Duskwight freelancers, but succeed in vanquishing them both. Speak with the gutless gladiator and ascertain that he is unharmed.
+
+TEXT_CLSGLA101_00288_MYLLA_000_64 -- But what brought Duskwight freelancers all the way from the Black Shroud?
+
+TEXT_CLSGLA101_00288_QIB_TODO001 -- Defeat the Duskwight freelancers!
+
+TEXT_CLSLNC006_00439_EDDARD_000_5 -- We were attacked, sir...by a Duskwight lancer...as we trained in the forest.
+
+TEXT_CLSLNC006_00439_THIBAIN_000_32 -- A Duskwight lancer unleashed the fiends upon us, claiming it would temper our courage! You should have seen the look in his eye when he said itâ”€mad bastard!
+
+TEXT_CLSLNC006_00439_THIBAIN_000_35 -- I daresay the Duskwight is being held at spearpoint as we speak, begging for his worthless life in a puddle of his own piss. Serves the bastard right, and all!
+
+TEXT_CLSLNC006_00439_FOULQUES_000_0006 -- ...Only for them to bite their <Emphasis>craven</Emphasis> tongues after I had stepped forward and admitted my part in the crime. And so it was that I alone took the blame! â€œOf <Emphasis>course</Emphasis> it was the Duskwight,â€� everyone said. â€œWas there ever any doubt?â€� It all made perfect sense!
+
+TEXT_GAIUSA203_00726_NPCA_000_060 -- Ugh! Nophica's teats, that's cold! What do you mean, â€œno fightin'â€�? This Duskwight scum wasâ”€
+
+TEXT_GAIUSA203_00726_BUSCARRON_000_081 -- In case you didn't see, the bloke who caught the brunt of that outburst is a Duskwight Elezen. They're a people who shun cities to live in the wilds, making them no better than brigands in the eyes of many.
+
+TEXT_GAIUSA203_00726_BUSCARRON_000_082 -- To be fair, the Duskwights can be an unruly lot, but they ain't so bad once you get to know them. And it don't seem right to bar a whole race of people from the Druthers for the misdeeds of a few.
+
+TEXT_GAIUSA207_00730_IRIELLE_000_021 -- For Duskwight Elezen such as ourselves, it represents a valuable and unexpected opportunity to learn more about the settlement where our ancestors once dwelled.
+
+TEXT_GAIUSA208_00731_SEQ_03 -- Rolandaix reveals that the items you uncovered were pieces of Gelmorran tableware, confirming his theory that the ruins are indeed what remains of Gelmorra's residential district. He goes on to express his fervent hope that the remnants of the city can one day be reestablished as a settlement for the displaced Duskwight Elezen.
+
+TEXT_GAIUSA208_00731_ROLANDAIX_000_021 -- My work here is far from done, but this discovery brings me one tantalizing step closer to realizing my dream: the restoration of these ruins, and their reestablishment as a settlement for the Duskwight Elezen.
+
+TEXT_GAIUSA208_00731_ROLANDAIX_000_022 -- Gridanians have long perceived my people as outcasts and brigands, yet if we Duskwights can return a measure of prosperity to this fallen city, we would no longer need to resort to common theft or banditry in order to make ends meet. Imagine it!
+...But I am rambling. Thank you for your help.
+
+TEXT_GAIUSB608_00890_FRANCEL_000_030 -- Then you have come to the wrong place, for we of House Haillenarte bear the rose. Mayhap you should journey to Gridania? I believe an ancient Duskwight house was said to use the white lily as its sigil.
+
+TEXT_GAIUSE502_00364_SEQ_05 -- You find a flustered Ilberd standing over a man who lies motionless in a pool of his own blood. The captain explains that the black marketeer fought back with a hidden blade, and that one of his subordinates, fearing for his safety, slew the man. What is worse, a party of Duskwight sellswords believed to be the clients managed to slip past the 1st Unit, which is currently giving chase. As a final ignominy, it would seem that Riol's information was erroneous, and that the massive shipment of weapons consists of a single wooden crate...
+
+TEXT_GAIUSE502_00364_ILBERD_000_044 -- As for the clients...though we know not how, they slipped past our perimeter. At present, the 1st is currently tracking a party of Duskwight sellswords we suspect may be them.
+
+TEXT_GAIUSE503_00365_SEQ_01 -- Ilberd wishes to join the 1st Unit in their pursuit of the Duskwight sellswords. However, the crate of weapons you and he have confiscated cannot simply be abandoned. He asks that you collect it and deliver it in his stead to Yuyuhase of the 3rd.
+
+TEXT_GAIUSE503_00365_ILBERD_000_000 -- I will join the 1st in their hunt for the Duskwight sellswords. If the gods are good, we will catch them before they escape into the Black Shroud.
+
+TEXT_GAIUSE503_00365_RIOL_000_054 -- These Duskwights they were chasin'â”€latest word is that we lost the trail.
+
+TEXT_LUCKBB221_03252_SEQ_02 -- Mistress Nashmeira's portentous premonitions prove true, as Lieutenant Gavin of the Twin Adders gravely informs you that Duskwight malcontents have been openly planning violent uprisings just outside Gridania's borders. Convinced that she must see what is happening with her own eyes, Nashmeira succeedsâ”€with your supportâ”€in convincing the officer to allow Troupe Falsiam to investigate the matter. Accompany your companions to the local watering hole and gather what information you can.
+
+TEXT_LUCKBB221_03252_SEQ_03 -- Rumor has it Duskwight troublemakers have been sighted in the area performing odd dances. It is becoming increasingly clear that the similarity to the events in Ul'dah are more than a coincidenceâ”€and that Mistress Nashmeira knows more than she is letting on. Make for the Upper Paths and keep lookout for any suspicious personages.
+
+TEXT_LUCKBB221_03252_SEQ_04 -- Upon being confronted by seemingly mad Duskwights, Mistress Nashmeira suddenly performs a curious dance, causing eerie clouds of dark aether to emerge from within their bodies. Defeat them and cast out the shadow!
+
+TEXT_LUCKBB221_03252_SEQ_05 -- Wielding your dancing abilities and martial skills both, you succeed in freeing the stricken Duskwights from the darkness that plagued their hearts. Unfortunately, it would seem Nashmeira was wounded in battle. Ranaa quickly rushes to her teacher's side to examine her wounds, and you decide to join her.
+
+TEXT_LUCKBB221_03252_TODO_02 -- Keep lookout for suspicious Duskwights in the Shroud.
+
+TEXT_LUCKBB221_03252_SERPENTRECRUIT03252_000_041 -- You are familiar with the Duskwight, yes? They are a clan of Elezen who eschew the shackles of urban life and instead choose to live in isolation. For the most part, both sides choose to leave the other well enough alone.
+
+TEXT_LUCKBB221_03252_SERPENTRECRUIT03252_100_041 -- Recently, however, events have taken a troubling turn. Groups of Duskwights have been assembling for reasons unknown, holding secret gatherings on the outskirts of the forest. Whatever their aim, we can be quite certain that it is nothing good.
+
+TEXT_LUCKBB221_03252_SERPENTRECRUIT03252_101_041 -- The Twin Adder is content to let them be provided they do us no harm, but when they turn to thieving and threatening our way of life...we cannot simply turn a blind eye. To say that tensions between the Duskwights and our citizens have been rising would be an understatement.
+
+TEXT_LUCKBB221_03252_SERPENTRECRUIT03252_000_042 -- To this point, troublemakers among the Duskwight have primarily acted alone. Which makes the manner in which they are now plotting something together in plain sight all the more concerning. Some here in the Nest even believe that they are sowing the seeds for a violent uprising.
+
+TEXT_LUCKBB221_03252_NASHMEIRA_000_043 -- As fortune would have it, these Duskwight rabble-rousers have recently been sighted with particular frequency in the immediate vicinity of the venue where I had hoped to hold our performance.
+
+TEXT_LUCKBB221_03252_RANAAMIHGO_000_045 -- Consider it done! I'll make up for my failureâ”€just you watch me! Once I've soothed the Duskwights' hearts with my dance, rioting will be the furthest thing from their minds!
+
+TEXT_LUCKBB221_03252_NASHMEIRA_100_046 -- Thank you, friends. That settles it, then. Leave the matter of the Duskwight demagogues to my colleagues here.
+
+TEXT_LUCKBB221_03252_SERPENTRECRUIT03252_101_046 -- I suppose there would be some merit in delegating the task to you, rather than risk fanning the flames between the Duskwights and our own citizens. And yet...you are a <Emphasis>dance</Emphasis> troupe, are you not? Are you certain that your friends here are up to the task of suppressing an armed revolt?
+
+TEXT_LUCKBB221_03252_NASHMEIRA_000_047 -- And with that, we should be on our way. The Duskwights in question are said to be congregating in the South Shroud. Let us meet first at the local tavern and formulate a plan of attack.
+
+TEXT_LUCKBB221_03252_NASHMEIRA_000_080 -- According to one of the regulars here, the Duskwight troublemakers were seen not long ago just to the northeast of here. And that's not allâ”€a rumor says that they were, and I quote, â€œgyrating and undulating in a most curious way.â€�
+
+TEXT_LUCKBB221_03252_RANAAMIHGO_000_090 -- Why, we're halfway across the realm from Ul'dah! Why would these â€œDuskwightsâ€� be performing the same dance as the paupers in Stonesthrow? Somehow I can't shake this feeling Mistress Nashmeira knows more than she's letting on...
+
+TEXT_LUCKBB221_03252_NASHMEIRA_000_095 -- This is where the Duskwights were last sighted...or so I was told.
+
+TEXT_LUCKBB221_03252_RANAAMIHGO_000_265 -- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>, could I ask you to return to the Adders' Nest and deliver our report? I'll tend to Mistress Nashmeira's scratches and see that no other troublemaking Duskwights show up.
+
+TEXT_LUCKBB221_03252_RANAAMIHGO_000_285 -- Would you be so kind as to return to Gridania and report back to Lieutenant Gavin? I'll attend to Mistress Nashmeira's scratches and keep my eyes out for any troublemaking Duskwights.
+
+TEXT_LUCKBB221_03252_GAVIN_000_300 -- What's this? You apprehended the Duskwight miscreants for us? Splendid! On behalf of all of Gridania, you have our gratitude. We will dispatch a unit to the South Shroud at once.
+
+TEXT_LUCKBB221_03252_NASHMEIRA_000_320 -- My apologies for the delay, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>. I'm pleased to report that our dancing Duskwight friends have been handed over to the proper authorities. And Ranaa's patched up my wounds good as newâ”€with sufficient rest, I should be back on the stage in no time.
+
+TEXT_LUCKBB221_03252_NASHMEIRA_000_334 -- Yes. This is the truth of Troupe Falsiam, passed down from principal to principal for generations. What I did for the Duskwights was to use my dance to extract the darkness from their hearts, and give it physical form. Form that can then be struck down and banished.
+
+TEXT_LUCKYW201_03895_VALDEAULIN_000_355 -- My first encounter with the Garleans was twenty years ago, shortly after the fall of Ala Mhigo. They continued their march into the lands that had long been home to we Duskwights.
+
+TEXT_SUBCTS701_01556_WOODWAILER00000_000_051 -- You see, despite the fervent protestations of those Duskwights over there, we cannot permit civilians within the ruins at this time.
+
+TEXT_SUBPST019_00036_SEQ_06 -- Before being felled by a sharp blow from behind, the Miqo'te observed Franz making his way towards Emerald Avenue, and Langloisiert following him at a distance. Convinced that the Duskwight is plotting to do Franz harm, she implores you to pursue Langloisiert and stop him before it is too late.
+
+TEXT_XXAUSA203_03859_NPCA_000_020 -- Ugh! Nophica's teats, that's cold! What do you mean, â€œno fightin'â€�? This Duskwight scum wasâ”€
+
+TEXT_XXAUSA203_03859_BUSCARRON_000_081 -- In case you didn't see, the bloke who caught the brunt of that outburst is a Duskwight Elezen. They're a people who shun cities to live in the wilds, making them no better than brigands in the eyes of many.
+
+TEXT_XXAUSA203_03859_BUSCARRON_000_082 -- To be fair, the Duskwights can be an unruly lot, but they ain't so bad once you get to know them. And it don't seem right to bar a whole race of people from the Druthers for the misdeeds of a few.
+

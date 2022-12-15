@@ -1,0 +1,7 @@
+Character is speaking:
+
+Character is mentioned:
+TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_601 -- The word Viera itself means â€œpeople of the wood,â€� and true to that name, both the Rava and the Veena make their homes exclusively in the Golmore Jungle, or the primeval forests which line the southwestern foothills of the Skatay Range, respectively.
+
+TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKSEVEN_000_285 -- (-<Emphasis>Cultivation Guidelines: Prohibited Items (Revision 34)</Emphasis>-)<Emphasis>Muscmaloi grows wild in the Skatay Range, and generations of the local Viera have harvested the herb for medicinal treatments. Despite this precedent, however, we must consider muscmaloi too dangerous to allow its cultivation without authorized oversight.</Emphasis>
+
