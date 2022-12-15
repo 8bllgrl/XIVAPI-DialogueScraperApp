@@ -1,5 +1,6 @@
 package com.eightballgirl.dialogueapp.version_2;
 
+import com.eightballgirl.dialogueapp.version_1.DialogueFinderV1;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
 
@@ -14,9 +15,10 @@ import java.util.*;
 
 public class DialoguerFinderV2 {
 
-    public static /*final*/ String CHAR_NAME = "Zenos";
+    public static /*final*/ String CHAR_NAME = "Estinien";
     public static boolean useScanner = false;
     public static int total;
+    public static ArrayList<String> fullAbsoluteListOfFiles = new ArrayList<>();
     public static int isInFileCount;
     public static String basePath = new File("").getAbsolutePath();
 
@@ -26,7 +28,6 @@ public class DialoguerFinderV2 {
         File folder = new File(csvLocation);
         File[] listOfFiles = folder.listFiles();
         String[] listOfFilesAsString = new String[Objects.requireNonNull(folder.listFiles()).length];
-
 
         for (int i = 0; i < Objects.requireNonNull(listOfFiles).length; i++) {
             if (listOfFiles[i].isFile()) {
@@ -43,7 +44,17 @@ public class DialoguerFinderV2 {
         //example:
         //D:\java-projects\personal\rest\dialoguer\src\main\resources\pathcsv
         //user of code may differ.
-        String path = new File(basePath + "/src/main/resources/csvxivapi").getAbsolutePath();
+        String path = new File(basePath + "\\src\\main\\resources\\csvxivapi").getAbsolutePath();
+        System.out.println("location of csv files:  " + path);
+        System.out.println("---------------------------------------------------------------------------------------------------");
+        return path;
+    }
+
+    public static String returnsFilepathExtended() {
+        //example:
+        //D:\java-projects\personal\rest\dialoguer\src\main\resources\pathcsv
+        //user of code may differ.
+        String path = new File(basePath + "\\src\\main\\resources\\csvdirectory").getAbsolutePath();
         System.out.println("location of csv files:  " + path);
         System.out.println("---------------------------------------------------------------------------------------------------");
         return path;
@@ -51,7 +62,7 @@ public class DialoguerFinderV2 {
 
     // method that iterates through the array of csv file names and reads it into a csv reader, returning an Array`List<String[]>`
     public static String hard_readCSVFiles(String[] csvFileList) {
-        StringBuilder result = new StringBuilder();
+        String result = "";
         ArrayList<String> fullListOfNameInstances = new ArrayList<>();
         ArrayList<String[]> returnValue = new ArrayList<>();
         String path;
@@ -61,7 +72,7 @@ public class DialoguerFinderV2 {
             for (int i = 0; i < csvFileList.length; i++) {
                 //get the filepath of the file name.
                 path = csvFileList[i];
-                is = DialoguerFinderV2.class.getResourceAsStream("/csvxivapi/" + path);
+                is = DialogueFinderV1.class.getResourceAsStream("/csvxivapi/" + path);
                 assert is != null;
                 Reader targetReaderConvert = new InputStreamReader(is);
 
@@ -70,7 +81,7 @@ public class DialoguerFinderV2 {
 
                 collectAllNameInstances(currentCSVContents, fullListOfNameInstances);
                 total = fullListOfNameInstances.size();
-//                result = formatAllNameInstances(fullListOfNameInstances);
+                result = formatAllNameInstances(fullListOfNameInstances);
             }
 
         } catch (Exception e) {
@@ -78,36 +89,66 @@ public class DialoguerFinderV2 {
             e.printStackTrace();
         }
 
-        for (int j = 0; j < fullListOfNameInstances.size(); j++) {
-            result.append(">" + fullListOfNameInstances.get(j) + "\n");
+        return result;
+    }
+
+    public static String extended_readCSVFiles(String[] csvFileList) {
+        String result = "";
+        //to format correctly, turn this into a string[]
+        ArrayList<String> fullListOfNameInstances = new ArrayList<>();
+        ArrayList<String[]> returnValue = new ArrayList<>();
+        String path;
+        InputStream is;
+
+        try {
+            for (int i = 0; i < csvFileList.length; i++) {
+                //get the filepath of the file name.
+                path = csvFileList[i];
+
+                CSVReader reader = new CSVReaderBuilder(new FileReader(path)).build();
+                List<String[]> currentCSVContents = reader.readAll();
+
+                collectAllNameInstances(currentCSVContents, fullListOfNameInstances);
+                total = fullListOfNameInstances.size();
+                result = formatAllNameInstances(fullListOfNameInstances);
+            }
+
+        } catch (Exception e) {
+            System.out.println("Failure inside of the method for iterating through the string array of csv names.");
+            e.printStackTrace();
         }
-        return result.toString();
+
+        return result;
     }
 
     private static String formatAllNameInstances(ArrayList<String> fullListOfNameInstances) {
-
-        ArrayList<String> chararacterIsSpeaking = new ArrayList<>();
+        //for v2
+        ArrayList<String> cutsceneOccurrence = new ArrayList<>();
         ArrayList<String> characterIsMentioned = new ArrayList<>();
 
         StringBuilder formatter = new StringBuilder();
 
         for (int i = 0; i < fullListOfNameInstances.size(); i++) {
-            if (containsSpeakerText(CHAR_NAME, fullListOfNameInstances.get(i))) {
-                chararacterIsSpeaking.add(fullListOfNameInstances.get(i));
+            if (fullListOfNameInstances.get(i).contains("VOICEMAN")) {
+                cutsceneOccurrence.add(fullListOfNameInstances.get(i));
             } else {
                 characterIsMentioned.add(fullListOfNameInstances.get(i));
             }
 
         }
 
-        formatter.append("Character is speaking:\n");
-        for (int i = 0; i < chararacterIsSpeaking.size(); i++) {
-            formatter.append(chararacterIsSpeaking.get(i)).append("\n");
+        for (int i = 0; i < cutsceneOccurrence.size(); i++) {
+            formatter.
+                    append(" ").
+                    append(cutsceneOccurrence.get(i)).append("\n")
+            ;
         }
         formatter.append("\n");
-        formatter.append("Character is mentioned:\n");
         for (int i = 0; i < characterIsMentioned.size(); i++) {
-            formatter.append(characterIsMentioned.get(i)).append("\n");
+            formatter.
+                    append(" ").
+                    append(characterIsMentioned.get(i)).append("\n")
+            ;
         }
         return formatter.toString();
     }
@@ -123,11 +164,24 @@ public class DialoguerFinderV2 {
                 alreadyDetected = true;
                 ArrayList<String> currentCsvNameInstances = new ArrayList<>();
                 StringBuilder textFormatter = new StringBuilder();
-                while (csvContents.get(j)[2].contains("<If(PlayerParameter(4))>her<Else/>his</If>")){
+
+                //making sure that errors are accounted for, like WOL or special characters.
+                while (csvContents.get(j)[2].contains("<If(PlayerParameter(4))>her<Else/>his</If>")) {
                     csvContents.get(j)[2] = csvContents.get(j)[2].replace("<If(PlayerParameter(4))>her<Else/>his</If>", "[his/her]");
                 }
+                while (csvContents.get(j)[2].contains("â€“")) {
+                    csvContents.get(j)[2] = csvContents.get(j)[2].replace("â€“", "-");
+
+                }
+
+                if (csvContents.get(j)[1].contains("VOICEMAN")){
+                    textFormatter.append("C>> ");
+                } else {
+                    textFormatter.append("Q>> ");
+                }
                 textFormatter.
-                        append(/*csvContents.get(j)[1] + " -- "  + */ csvContents.get(j)[2])
+
+                        append(csvContents.get(j)[2])
                         .append("\n")
                 ;
                 target.add(textFormatter.toString());
@@ -177,7 +231,7 @@ public class DialoguerFinderV2 {
     }
 
     public static void writeToFile(String finalizedText) {
-        String pathname = basePath + "/src/main/output/" + CHAR_NAME.toUpperCase() + "_dialogue.txt";
+        String pathname = basePath + "\\src\\main\\java\\com\\eightballgirl\\dialogueapp\\version_2\\output\\" + CHAR_NAME.toUpperCase() + "_dialogue.txt";
         Path path = Paths.get(pathname);
         try {
             Files.writeString(path, finalizedText, StandardCharsets.UTF_8);
@@ -193,7 +247,7 @@ public class DialoguerFinderV2 {
     }
 
     //TODO: This needs to be finished.
-    public static void chooseFileLocation(){
+    public static void chooseFileLocation() {
         //
         //unfinished method.
         //
@@ -211,13 +265,61 @@ public class DialoguerFinderV2 {
         frame.dispose();
     }
 
+    static void recursiveWrite(File[] arr, int index, int level) {
+// terminate condition
+        if (index == arr.length) {
+            return;
+        }
+        // for files
+        if (arr[index].isFile()) {
+//            System.out.println(arr[index].getName());
+            fullAbsoluteListOfFiles.add(arr[index].getAbsolutePath());
+        }
+
+
+        // for sub-directories
+        else if (arr[index].isDirectory()) {
+            // recursion for sub-directories
+            recursiveWrite(arr[index].listFiles(), 0,
+                    level + 1);
+        }
+        // recursion for main directory
+        recursiveWrite(arr, ++index, level);
+    }
+
+    static String[] extendedMakeCsvFileList() {
+        String[] returnStringArray = null;
+        String csvLocation = returnsFilepathExtended();
+        File folderDirectory = new File(csvLocation);
+        if (folderDirectory.exists() && folderDirectory.isDirectory()) {
+            // array for files and sub-directories
+            // of directory pointed by maindir
+            File arr[] = folderDirectory.listFiles();
+
+            // Calling recursive method
+            recursiveWrite(arr, 0, 0);
+
+            returnStringArray = new String[fullAbsoluteListOfFiles.size()];
+            for (int i = 0; i < fullAbsoluteListOfFiles.size(); i++) {
+                returnStringArray[i] = fullAbsoluteListOfFiles.get(i);
+            }
+        }
+        return returnStringArray;
+    }
+
     public static void main(String[] args) {
 
+        System.out.println(basePath);
+
+        //make a recursive method that makes the csv list into a more precise version.
 
 
+        //
 
         System.out.println("Loading CSV files. . . ");
-        String[] csvFileList = makeCsvFileList();
+//        String[] csvFileList = makeCsvFileList();
+        String[] csvFileList = extendedMakeCsvFileList();
+
         for (String s : csvFileList) {
             System.out.println(s);
         }
@@ -228,17 +330,25 @@ public class DialoguerFinderV2 {
         }
 
 
-        String finalizedResult = hard_readCSVFiles(csvFileList);
+//        String finalizedResult = hard_readCSVFiles(csvFileList);
+        String finalizedResult = extended_readCSVFiles(csvFileList);
+
+
+        //separate by cutscene or by quest.
         System.out.println(finalizedResult);
 
-        //write finalized result to file location
-//        writeToFile(finalizedResult);
-        writeToFile(finalizedResult, "D:/java/Projects/java-rest&json/XIVDialogue_output/" + CHAR_NAME.toUpperCase() + "_dialogue_abridged.txt");
+        writeToFile(finalizedResult);
 
+        //write finalized result to file location
+
+//        writeToFile(finalizedResult, basePath + "\\src\\main\\java\\com\\eightballgirl\\dialogueapp\\version_2\\output\\" + CHAR_NAME.toUpperCase() + "_dialogue_abridged.txt");
 
         System.out.println("---------------------------------------------------------------------------------------------------\n" + "Done! " +
                 /*allNameInstances.size() + */ total + " Instances of the name '" + CHAR_NAME + "' found in " + isInFileCount + " of " + csvFileList.length + " total files.");
-
+//        System.out.println("Location of file:");
+//        System.out.println();
         System.out.println("Powered by xivapi. " + "https://xivapi.com/" + "Created by Sage Belknap.  All Final Fantasy XIV content is property of Square Enix Co., LTD.");
     }
 }
+
+//to return diff between cutscene and quest just look for VOICEMAN (cutscene)
