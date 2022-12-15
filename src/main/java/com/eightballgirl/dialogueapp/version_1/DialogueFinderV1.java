@@ -13,7 +13,7 @@ import java.util.*;
 
 public class DialogueFinderV1 {
 
-    public static /*final*/ String CHAR_NAME = "Estinien";
+    public static /*final*/ String CHAR_NAME = "Sharlayan";
     public static boolean useScanner = false;
     public static int total;
     public static int isInFileCount;

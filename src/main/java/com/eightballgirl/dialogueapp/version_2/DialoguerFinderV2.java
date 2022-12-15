@@ -178,14 +178,18 @@ public class DialoguerFinderV2 {
                 while (csvContents.get(j)[DIALOGUE_COLUMN].contains("â\u20AC€")) {
                     csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[DIALOGUE_COLUMN].replace("â\u20ac€", "-");
                 }
-                while (csvContents.get(j)[DIALOGUE_COLUMN].contains("<Highlight>ObjectParameter(1)</Highlight>") || csvContents.get(j)[DIALOGUE_COLUMN].contains("<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>")){
+                while (csvContents.get(j)[DIALOGUE_COLUMN].contains("<Highlight>ObjectParameter(1)</Highlight>") || csvContents.get(j)[DIALOGUE_COLUMN].contains("<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>")) {
                     csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[2].replace("<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>", "[WARRIOR OF LIGHT]");
-
                     csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[2].replace("<Highlight>ObjectParameter(1)</Highlight>", "[WARRIOR OF LIGHT]");
+                }
+                while (csvContents.get(j)[DIALOGUE_COLUMN].contains("<Emphasis>") || csvContents.get(j)[DIALOGUE_COLUMN].contains("</Emphasis>")) {
+                    csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[2].replace("<Emphasis>", "*");
+                    csvContents.get(j)[DIALOGUE_COLUMN] = csvContents.get(j)[2].replace("</Emphasis>", "*");
+
 
                 }
 
-                if (csvContents.get(j)[SPEAKER_COLUMN].contains("VOICEMAN")) {
+                    if (csvContents.get(j)[SPEAKER_COLUMN].contains("VOICEMAN")) {
                     textFormatter.append("C>> ");
                 } else {
                     textFormatter.append("Q>> ");
@@ -359,7 +363,6 @@ public class DialoguerFinderV2 {
 //        System.out.println("Location of file:");
 //        System.out.println();
         System.out.println("Powered by xivapi. " + "https://xivapi.com/" + "Created by Sage Belknap.  All Final Fantasy XIV content is property of Square Enix Co., LTD.");
-        System.out.println("\u20AC");
     }
 
 }
