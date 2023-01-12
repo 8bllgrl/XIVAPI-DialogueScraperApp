@@ -16,8 +16,6 @@ This program uses resources sourced from [xivapi](https://xivapi.com/) in order 
 
 By putting in a word through the console, This program let’s you easily search for information within the dialogue files of the game and receive an output .txt file containing a long list of every instance of that search. Dialogue files are formatted inside of CSV files, also known as Comma Separated Values. This program uses this information to determine the speaker, and what they are saying. 
 
-This program is NOT LENIENT on the type of input you pass into it. Misspells will not be corrected for you. If the character you are looking up has special characters, such as Y’shtola or G’raha tia, try looking up “Graha” or “Yshtola” instead.
-
 ## In regards to NpcYell.csv
 
 Unfortunately, NpcYell.csv is not used inside of this program. This is due to the fact that this file does not contain any character name associations inside of it, therefore no information of who is speaking can be gathered from it. I apologize for this inconvenience. For this case, I recommend you take a look at either the [NpcYell.csv from xivapi](https://github.com/xivapi/ffxiv-datamining/blob/master/csv/NpcYell.csv), or  using the site [lore search](https://loresearch.net/). 
@@ -49,6 +47,9 @@ Currently to run these programs it is best to close the repository onto your com
 Inside of this program there are two folders. Version 1, and Version 2. 
 
 *The output of the files generated through this program are stored inside of the “output” folder inside of the /src. ( located  at ‘XIVAPI-Dialogue-Scraper/src/main/java/com/eightballgirl/dialogueapp/output/’ )*
+
+
+This program is NOT LENIENT on the type of input you pass into it. Misspells will not be corrected for you. If the character you are looking up has special characters, such as Y’shtola or G’raha tia, try looking up “Graha” or “Yshtola” instead.
 
 ### Version 1
 
