@@ -6,7 +6,7 @@
 
 ## Find information from FFXIV
 
-XIV Dialogue inspector is a program that allows you to search for dialogue from within the multiplayer online role-playing game Final Fantasy XIV developed and published by [Square Enix](https://en.wikipedia.org/wiki/Square_Enix). This program is used to locate words, most likely nouns, inside of the dialogue files of the game. The results of this program are in chronological order. 
+XIV Dialogue inspector is a program that allows you to search for dialogue from within the multiplayer online role-playing game Final Fantasy XIV developed and published by [Square Enix](https://www.finalfantasyxiv.com/). This program is used to locate words, most likely nouns, inside of the dialogue files of the game. The results of this program are in chronological order. 
 
 This program uses resources sourced from [xivapi](https://xivapi.com/) in order to work.
 
