@@ -1,0 +1,2289 @@
+
+ C>> If there is to be a meeting, I would accompany you.
+
+ C>> Even with your intermediary, Nidhogg's bloodrage may render him deaf to reason. However, the mere attempt may afford our forces precious time to prepare. 
+
+ C>> Of course...you might also consider a more direct approach to ending this conflict. With the power of the Eye at my disposal, and the vaunted strength of the Warrior of Light, we could conceivably slay the beast outright...
+
+ C>> Perfectly. I shall assume that Iceheart enjoys similar diplomatic protection until instructed otherwise.
+
+ C>> A word of advice: think carefully before divulging the particulars of this plan to Ser Aymeric. 'Twould not do to have the lord commander accused of consorting with heretics.
+
+ C>> I am glad to be of service.
+
+ C>> Know that I have offered my lance to aid in this endeavor. I cannot claim that its success is assured, but our actions should serve to delay Nidhogg's advance at the very least.
+
+ C>> Which is more than can be said for the ill-conceived counterattack advocated by the See's more vocal crusaders. They offer glorious death, but little hope of victory.
+
+ C>> You are wrong, Lady Iceheart.
+
+ C>> Lest you misunderstand, I do not doubt your vision of the past--'tis true that Nidhogg greatly desired to reclaim the Eye.
+
+ C>> Indeed, it was for that very reason that I kept it with me as I roamed the land, attempting to draw him away from the city.
+
+ C>> Until recently, Nidhogg seemed unable to resist its allure, and pursued me relentlessly. Needless to say, that is no longer the case. Now, it would seem he has fixed his attention on Ishgard itself, though he knows full well the Eye does not reside there.
+
+ C>> I believe reason has all but left him. Through the Eye, I feel much of what Nidhogg feels, and the dragon's thirst for vengeance will not be quenched by aught less than a sea of blood.
+
+ C>> Have care, dragon...or I shall gouge out one of yours.
+
+ C>> Your tale bears scant resemblance to the one I was taught. How convenient that it should absolve your kind of all responsibility. But tell me, dragon: why should I believe your version of events?
+
+ C>> Oft have I wondered why Nidhogg did not simply raze Ishgard to the ground.
+
+ C>> Now I have my answer. He has no intention of winning the Dragonsong War, for it is no war at all, but vengeance--an eternal requiem sung for his murdered sister.
+
+ C>> Well, what do you propose we do now? I, for one, am intent on continuing to the east...
+
+ C>> Nidhogg's lair--the Aery--is said to lie in that direction. And the Eye tells me he is near...
+
+ C>> You cannot still mean to stop me. I have been true to my word, and aided you in this fool's errand with Hraesvelgr.
+
+ C>> But your efforts at parley have come to naught, Lady Iceheart. I would see Ishgard saved, and for that, Nidhogg must die.
+
+ C>> Nay, lady, I would but pierce its vengeful heart. When Nidhogg dies, this war shall die with him.
+
+ C>> In close combat, this will afford us an advantage. And if the tales are true, the Warrior of Light has bested many an invincible foe.
+
+ C>> In close combat, this will afford us an advantage. And with two Azure Dragoons working in unison, who can say what might be possible?
+
+ C>> But such speculation is meaningless if we cannot even find the wyrm. Our first task must be to seek out Nidhogg's lair.
+
+ C>> Such is the way of things, I fear. I shall consider it a miracle if mine armor is not stained crimson ere this conflict is ended.
+
+ C>> Leave her. Your words will not reach her now. And we have not the time to wait for her to gather up the pieces of her shattered faith.
+
+ C>> Aye... That would be the Aery. I feel Nidhogg's presence through the Eye--his caustic hatred gnawing at my soul.
+
+ C>> 'Twould seem the death of his consort has put him on guard. Mark how he wards his lair with tempestuous winds.
+
+ C>> All stands ready, Lord Commander.
+
+ C>> The Aery is now but a short flight away. Yet what a long and winding path we took to reach this point.
+
+ C>> Were it not for Master Alphinaud's proposal, we never would have attempted to parley with the dragons.
+
+ C>> Though our negotiations yielded little, our expedition with Lady Iceheart taught us much.
+
+ C>> Aye, 'tis true that many of our countrymen would sooner die than join hands with the heretics' mistress, but 'twas through that most unlikely of alliances that we came to speak with Hraesvelgr.
+
+ C>> In this instance, the journey was more important than the destination. Had we not slain Nidhogg's consort, Tioman, and put the great wyrm on his guard, the Dravanians would have arrived at Ishgard's walls long ago.
+
+ C>> I am under no illusions. Nidhogg's might is legendary. But with his eye in my possession, I can stifle his strength at the source.
+
+ C>> Victory will be hard-won, even so, and I shall be glad indeed to have the Warrior of Light at my side.
+
+ C>> Pray leave the slaying of dragons to dragoons, ser knight. Your duty to command the city's defense is no less vital.
+
+ C>> Should we fail, and Nidhogg slip through our grasp, who, then, will hold the walls against him? Will you leave Ishgard in the hands of the Holy See's zealots?
+
+ C>> Who but you has the authority and the standing to orchestrate a citywide defense? I do not, and neither does the Warrior of Light. That is why it is our place to fight, and yours to remain here, Lord Commander.
+
+ C>> What, you too, Master Alphinaud? By the Fury... You have shown some promise, but this adversary is far beyond your skills.
+
+ C>> Well, my friend, 'twould seem I have discouraged the last of the volunteers, and claimed the task as ours alone. But if any alive can best this wyrm, 'tis surely we two!
+
+ C>> We're through!
+
+ C>> So, this is the Aery! Where are you Nidhogg!? You have guests!
+
+ C>> There!
+
+ C>> Greetings, Lord of Dravania! I believe we have something that belongs to you!
+
+ C>> No, wyrm! This ends here!
+
+ C>> You gifted my people a thousand years of suffering. Now I gift you an eternity in darkness!
+
+ C>> What ails you, friend!? Are you wounded?
+
+ C>> You have borne witness to history...to the culmination of the first battle with Nidhogg.
+
+ C>> The legend of Ishgard's founding tells that our ancestors were led to the land of Coerthas by the valiant King Thordan.
+
+ C>> In the midst of their journey, they came to a wide chasm, where they were set upon by a great wyrm--Nidhogg. A furious battle then ensued, with Thordan leading the van.
+
+ C>> Though the brave king was slain defending his people, his son, Haldrath, the first Azure Dragoon, fought on undaunted...
+
+ C>> And with a mighty thrust of his lance, he gouged out Nidhogg's eye, forcing the wicked creature into retreat.
+
+ C>> Thus did this eldritch orb become a sacred treasure of Ishgard, lending its power to every knight deemed worthy to bear the title of Azure Dragoon.
+
+ C>> A rousing tale, is it not? Would that I could still believe it. But your vision, which we must accept as immutable truth, leaves no room for doubt--save on one point.
+
+ C>> If Haldrath took both of Nidhogg's eyes, then how came this eye to be lodged in the wyrm's skull?
+
+ C>> Beneath every answer we unearth, another question lies buried...
+
+ C>> 'Twas a fierce battle, but one I knew we would win. Your fame is well deserved, Warrior of Light. Full proud am I to have fought at your side.
+
+ C>> I would fain return with all swiftness to Ishgard to inform the lord commander of our triumph...
+
+ C>> But we must first have words with Hraesvelgr. There are parts of this tale that the wyrm has kept from us, and I would know wherefore...
+
+ C>> You mean the moment I prised your eye from his head?
+
+ C>> Would that Haldrath had dealt the wyrm a killing blow...
+
+ C>> 'Twas my life's goal to slay Nidhogg, but I find there is little joy to be had in its accomplishment.
+
+ C>> I lost my family to Nidhogg's flames. And 'twas with fury in my heart that I took up the lance. Every blow I struck, I struck in the name of vengeance. We were not so different, he and I.
+
+ C>> Yet even with all that has passed, the tale is incomplete.
+
+ C>> We are short a great wyrm's eye. Of the pair which Haldrath took from Nidhogg, only one is known to us--the one I bear. What, then, became of the other?
+
+ C>> Why did Nidhogg, who had taken such pains to prolong the Dragonsong War, suddenly decide to hurl his entire army against the walls of Ishgard?
+
+ C>> Lord Commander... Aye, the deed is done. Nidhogg is slain.
+
+ C>> What? ...In the city!? A battle with whom!?
+
+ C>> At once, Lord Commander. Hold firm till our return.
+
+ C>> Fighting has broken out in the city. Lord Aymeric was sparse with the particulars, but it seems some commoners threw open the gates to a force of heretics.
+
+ C>> Are we to mark the end of the Dragonsong War by spilling the blood of our own? Mayhap Hraesvelgr was right about us...
+
+ C>> Let us away, Warrior of Light. The people must be saved from themselves.
+
+ C>> Come, then, Lady Iceheart. Let us write the final chapter in this damnable war.
+
+ C>> Hmph. Lies and slander.
+
+ C>> Bastard or trueborn, he is our nation's best hope. If the Holy See dares to threaten him, I shall lead the charge against the Vault myself.
+
+ C>> 
+
+ C>> For a mercy, we were not too late.
+
+ C>> Spare us the hyperbole. 'Tis not for praise that we fight.
+
+ C>> All that we have achieved? Hmph. Spoken like a true outsider. Until the war is over, we have achieved nothing.
+
+ C>> The coming battle is a chance to excise the root of this conflict, and by my hand, it shall be done. *Then* you may speak of achievement.
+
+ C>> Save your concern. I will consume the Eye ere I let it consume me.
+
+ C>> Eye of mine enemy! Render unto me thy power!
+
+ C>> Ugh... No... You will not claim me! I am the master!
+
+ C>> Fare you well, my lady.
+
+ C>> Whatever folly the Garleans mean to commit, they can wait. We must remain focused on our task.
+
+ C>> Coward...
+
+ C>> Take the Eye. It should still hold enough energy to be of use to you.
+
+ C>> I shall join you as soon as I am able.
+
+ C>> ...It is over, then? I had hoped that mine would be the hand to end it...but knowing you, there was little chance of that.
+
+ C>> 'Twould seem the Eye has served you well.
+
+ C>> Its twin... At long last...
+
+ C>> All that remains is to take them beyond the reach of man and dragon both. With this task accomplished, my toils shall finally be at an end.
+
+ C>> Grrraaarrrgh!!!
+
+ C>> (-???-)Never!
+
+ C>> Child of Dravania! Art thou grown so forgetful that thou wouldst forsake kith and kin, and consort with the spawn of Thordan? That thou wouldst *dare* contemplate peace!
+
+ C>> Hearken unto me, all of you! The final chorus is nigh, and all will be held to account! All will bathe in the flames of retribution!
+
+ C>> Till the coming of that day, look you on your sins and despair! For none shall 'scape my wrath! None shall 'scape my revenge!
+
+ C>> (-Nidhogg-)Is this...to be...mine end?
+
+ C>> (-Nidhogg-)Nay... I will not allow it... I am of the first brood... I am vengeance incarnate... I am Nidhogg!
+
+ C>> (-Nidhogg-)Thou shalt die by my hand!
+
+ C>> This is not your hand, wyrm!
+
+ C>> (-Nidhogg-)Thou...wilt...obey!
+
+ C>> I would ask one last favor of you, Warrior of Light... Finish me--now, while I have the beast subdued!
+
+ C>> (-Nidhogg-)Gaaahhh!
+
+ C>> You waste your time. Kill me! It is the only way! Ending Nidhogg...will be my final duty...
+
+ C>> Cease your mewling, boy. It grates my ears.
+
+ C>> Aye, aye. 'Twas but a jest.
+
+ C>> I thank you, Alphinaud...and you too, Warrior of Light. Quite how you managed to persuade Hraesvelgr to aid in his brood-brother's downfall, I cannot imagine--but full glad am I that you did. 'Tis an honor to share the mantle of Azure Dragoon with one such as you.
+
+ C>> I thank you, Alphinaud...and you too, Warrior of Light. Quite how you managed to persuade Hraesvelgr to aid in his brood-brother's downfall, I cannot imagine--but full glad am I that you did. Yet again, you have achieved the impossible.
+
+ C>> There is naught to forgive, Aymeric. You but acted in defense of Ishgard, as is your duty.
+
+ C>> Were you any less single-minded about it, I would not follow you into battle--nor trust you at my back.
+
+ C>> Besides, I had come to the selfsame conclusion--that I would have to perish for Nidhogg to be stopped. So let us dispense with the hand-wringing. I have heard enough mewling for one day.
+
+ C>> The tendrils of Nidhogg's foul presence bound up every fiber of my being, usurping my senses, but I yet retained some trace of awareness.
+
+ C>> The wyrm's mind was as a vast and tumultuous sea. Endlessly its black waters churned, his grief and despair at Ratatoskr's murder never calming, never receding. And driven by this surging current came wave upon wave of unrelenting rancor.
+
+ C>> It was the very image of my own heart. There I saw the dark reflection of the hatred I felt after Nidhogg slew my family, when no path remained save vengeance against dragonkind.
+
+ C>> Neither one of us had a choice. But I was blessed with something Nidhogg was not--comrades and teachers to console and admonish me.
+
+ C>> Had I not had them to gainsay my obsession, it would surely have consumed me, as Nidhogg's did him, and we would have been in all respects alike.
+
+ C>> Though his shade is banished, his spirit scattered upon the Sea of Clouds, I feel no joy at his passing. Where once I craved vengeance, I now crave rest.
+
+ C>> Lord Commander, my hunt is at an end. I would lay down the mantle of Azure Dragoon.
+
+ C>> (-???-)Aye, this is the place.
+
+ C>> (-???-)...When his shade was banished, you swore to leave this life behind.
+And yet here you are...
+
+ C>> Yet if this be the work of the Eyes, what choice do you have but to end it? <sigh> Or so the boy would say. Damn you, Alphinaud.
+
+ C>> Come, Nidhogg. We are needed.
+
+ C>> Heh. My lance has slain far greater beasts.
+
+ C>> ...You're welcome, boy.
+
+ C>> Well, well, well, what a fine mess we've made.
+
+ C>> All but spent feeding that primal, eh? Well, you won't be making any mischief with that amount of aether.
+
+ C>> Still...better safe than sorry.
+
+ C>> There. There ends your hateful legacy.
+
+ C>> Out of my way!
+
+ C>> Much as yours once was. But even without it, I see a former legatus still has eyes and ears in unexpected places.
+
+ C>> "Vanâ€œ Baelsar, in the flesh. Though I understand you prefer â€�Shadowhunterâ€œ?
+
+ C>> Hmph. Through no choice of my own. They tracked me down, and conscripted me to their cause.
+
+ C>> I swear their receptionist was trained as a spy. Not that anyone can escape that Baldesion woman once she has caught the scent of your aether...
+
+ C>> ...Away on other business. Thus it has fallen to me to root out any trace of the Empire's new weapon.
+
+ C>> ...What exactly does this Black Rose do?
+
+ C>> I have more questions, but now is not the time.
+
+ C>> Hah! From what I hear, you need all the help you can get.
+
+ C>> In case you don't know, Varis himself confessed that your empire was a creation of the Ascians.
+
+ C>> What did the scouts have to report?
+
+ C>> A stalemate, then. The Alliance has done well to hold the line for so long.
+
+ C>> ...But then they did have Ishgardian reinforcements.
+
+ C>> To say nothing of Black Rose.
+
+ C>> All the more reason to hasten our search. How close are your people to identifying our next target?
+
+ C>> Odd. Dead seems unlikely, fled less so. I wonder where he'll turn up...
+
+ C>> In the manner of His Royal Remains, you mean?
+
+ C>> Hmph.
+
+ C>> Same as the others--struck down with a single blow. An unfortunate day to draw guard duty.
+
+ C>> Forgive me. These were your people.
+
+ C>> Wha-- Wait!
+
+ C>> (GRUNT)
+
+ C>> What now? The game continues, but the pieces have changed.
+
+ C>> Oh. You're back.
+
+ C>> And none the worse for wear, I see.
+
+ C>> The situation in Garlemald has become more complicated. I was making my escape from the capital when I ran into one of yours--Riol. He thought it best we come straight here.
+
+ C>> Hm. Where to begin?
+
+ C>> After entering the Empire via Radz-at-Han, I went about my mission of investigating Black Rose.
+
+ C>> It was then, inside a provincial factory, that I encountered the one who styles himself Shadowhunter. Gaius Baelsar.
+
+ C>> Our goals being apparently aligned, we joined forces and ventured on into the heart of the capital--to the very imperial palace itself.
+
+ C>> There, we found a man whom all assumed dead.
+
+ C>> But his soul lives on. And he has wrested back his flesh.
+
+ C>> Zenos yae Galvus.
+
+ C>> Nor did the surprises end there. For no sooner had we arrived than he murdered his sire in cold blood. The Emperor is dead. This sent Gaius into a rage, and he charged in, blade drawn...
+
+ C>> What's wrong!?
+
+ C>> Peer into my past, did you?
+
+ C>> I'm still not sure what I think of this gift of yours. But no matter.
+
+ C>> Our confrontation was cut short when the imperial guard arrived. It was then that Zenos took his leave. Citing boredom.
+
+ C>> It beggars belief, aye. But no more than a hero traversing the rift between worlds.
+
+ C>> My concerns are far more prosaic. With the Emperor dead and the crown prince missing, the Empire is in disarray.
+
+ C>> Until order is restored--assuming it even possible--we needn't fear an imperial reprisal. And for reasons of his own, Zenos took it upon himself to rid the world of Black Rose.
+
+ C>> Riol has already gone to apprise the Alliance leaders of these developments. We may leave the matter in their hands for now.
+
+ C>> That he did, but we parted ways shortly after leaving Garlemald. He claimed another threat had arisen which demanded his attention.
+
+ C>> He didn't elaborate, but the absence of some device or other in the capital gave him reason to believe they're planning something.
+
+ C>> Lest you worry, I believe he has well and truly shed the Black Wolf's pelt. Conquest is no longer his objective. We may safely leave him to his own devices.
+
+ C>> Well then, with Black Rose nipped in the bud, I believe I've fulfilled my part of the bargain.
+
+ C>> Sorry, but I'm not inclined to extend my contract. Gaius isn't the only one with business to attend to.
+
+ C>> Hmph.
+
+ C>> Farewell, my friend. See that you don't make a habit of dozing off in battle.
+
+ C>> First the Scions' coinkeeper, and now you. I'm beginning to think these meetings are more than mere coincidence.
+
+ C>> Not that I'm complaining. It's been too long.
+
+ C>> You look an ilm taller and twice as rugged. It suits you, Alphinaud.
+
+ C>> Quieter, though. Have you been giving him lessons on how to be the strong, silent type?
+
+ C>> Would someone mind explaining what is going on?
+
+ C>> Well I for one will not be making that mistake again.
+
+ C>> What I will say...for the second time today...is that you've grown. Inside and out. I can tell.
+
+ C>> No rest for the righteous, eh? Speaking of which, I was just on my way to borrow an airship to take me to Azys Lla.
+
+ C>> Aye, Tiamat, his mate. Even now, she remains imprisoned on Azys Lla, though her remorse binds her faster than any shackle.
+
+ C>> I see no reason why not...assuming your sister can bear the thought of sharing a deck with me.
+
+ C>> Hmph. It's plain she knows naught of recent events. Perhaps you should enlighten her.
+
+ C>> Your children's pain means nothing to them. They laugh at your kind's suffering.
+
+ C>> But tears will not right this wrong. Nor will lamentations see the perpetrators punished.
+
+ C>> Behavior befitting a great wyrm.
+
+ C>> We came here to ask mighty Tiamat of the first brood, consort of Bahamut, mother of the dragons of Meracydia, what she intends to do about the crimes committed against her children!
+
+ C>> Alphinaud's ready. It's time.
+
+ C>> Do it, and let's hope the treatment worked as it should.
+
+ C>> Did you hear all that, Alphinaud? You'd best rejoin your comrades. I'll make my own way.
+
+ C>> Our enemy awaits. Shall we?
+
+ C>> You're right. He *is* idealistic. But the world has more than its fair share of realists like you and me.
+
+ C>> It's people like him who dare to dream that things could be better--and make it happen, against all the odds. They are the ones whose names live on forever. The heroes.
+
+ C>> Dreams worth fighting for don't die so easily.
+
+ C>> You see the world the way you want it to be. I see the world the way it is. You are idealistic to a fault.
+
+ C>> But I know you would never turn your back on those in need. Never close your eyes to their suffering. And somehow, your deeds lend truth to your words, giving the lie to my doubts in so doing.
+
+ C>> I have seen others draw strength from your belief. In Ishgard, in Ala Mhigo. You inspired them to stand up and fight. To win, no less.
+
+ C>> And even when you lost those you held dear, you carried their spirit with you, and made their memory your guiding light. The burden of so many hopes and dreams would be too heavy for most to bear.
+
+ C>> But you bear it willingly. As you have shown me, some dreams are too important to let go.
+
+ C>> If you have need of my strength, it's yours. After all you've done, how could I refuse?
+
+ C>> For one so bright, you can be remarkably dim at times. There is such a thing as overthinking, you know.
+
+ C>> Everything all right back there?
+
+ C>>  ...
+
+ C>> Are we strangers newly met? Why this stiff formality?
+
+ C>> I'd rather you dispense with the â€œsers,â€� especially in private company.
+
+ C>> Or I'll be forced to respond in kind. â€œLittle Lord Alphinaud.â€�
+
+ C>> No subtitles. Report if displayed.
+
+ C>> Better.
+
+ C>> You do know you're not alone in this, don't you?
+
+ C>> Hasn't Sharlayan all but severed relations with foreign powers? Those of us without direct ties--myself included--may be refused outright...
+
+ C>> ...â€œMay.â€�
+
+ C>> Estinien Varlineau. Formerly of the Order of the Knights Dragoon in Ishgard.
+
+ C>> As your â€œmercenary,â€� I should hope my welcome includes a generous salary.
+
+ C>> I passed through Thavnair on my way to infiltrate the Empire, and though I'm not qualified to give a guided tour, I did gain a sense of where things lie.
+
+ C>> Three. I am already attuned to the crystal in Thavnair.
+
+ C>> I've seen fairer faces after a bout of bad shellfish.
+
+ C>> Let me bring you something to drink. That should help settle your bellies.
+
+ C>> What happened here?
+
+ C>> Those are dragon scales.
+
+ C>> Tell me, how did you acquire those scales?
+
+ C>> ...That is well.
+
+ C>> Now, see here...!
+
+ C>> Cease your shoving, or so help me...!
+
+ C>> They had better be, or all this effort was for naught...
+
+ C>> The more you see and suffer life's injustices, the more difficult they become to bear.
+
+ C>> Vengeance is nurtured in similar soil. Though your anger has a broader focus, the sentiment is much the same: a fervent desire to destroy others; to see them drown in torment, as you have.
+
+ C>> I think not.
+
+ C>> This charade has gone on long enough. Show yourself.
+
+ C>> Your eye. It was taken?
+
+ C>> Ah. That would explain why I felt the presence of a dragon upon our first meeting.
+
+ C>> Whether your request be made as a great wyrm or the ruler of Radzâ€“atâ€“Han, I see no reason to refuse. Nor will I.
+
+ C>> This is what we came to destroy?
+
+ C>> No subtitles. Report if displayed.
+
+ C>>  
+
+ C>> It's nothing that won't heal. In time.
+
+ C>> The trouble is, their tempering has made them utterly fearless. Subduing them would be easier if they had the capacity to submit in the first place.
+
+ C>> That I did.
+
+ C>> ...Or perhaps we are beneath their notice.
+
+ C>> Of all the bloody times for a disappearing act...
+
+ C>> Enough!
+
+ C>>  Report if displayed
+
+ C>> Bold words call for bold action. And there'll be no turning to your father should plans go awry.
+
+ C>> You're alone... Good.
+
+ C>> The twins thought now would be a wonderful time to pay a visit to my chambers. Rather than listen to them bicker over tonight's snacks and tomorrow's plans, I seized the first opportunity to make my escape.
+
+ C>> To their credit, they decided against intruding on your peace and quiet.
+
+ C>> It can all be a bit...exhausting at times, can't it?
+
+ C>> I wasn't sure what to make of you at first. During the Dragonsong War, how quick you were to take up a cause not your own. But I came to see that is simply the way of you and yours.
+
+ C>> I will not pretend to understand this talk of ancient primals and the Final Days.
+
+ C>> But I trust in your judgment and choose to believe in your cause. You and Alphinaud have my lance. Now and always.
+
+ C>> You will need it, wrack and ruin looming on the horizon. Calamity bearing down upon us.
+
+ C>> There's no place I'd rather be than here. Standing shoulder to shoulder with friends on the front line.
+
+ C>> So do not hesitate to send me against your enemies. I'll make them rue the day they met me.
+
+ C>> Now, if you'll excuse me. I could do with a little air.
+
+ C>> If Alphinaud asks... I was never here.
+
+ C>> Until the morrow.
+
+ C>> And what of Vrtra?
+
+ C>> You put your secret at risk.
+
+ C>> ...Take me with you.
+
+ C>> I am as at home fighting in the air as I am on land. Take me with you.
+
+ C>>  
+
+ C>> You heard the man. Seems I'm coming with you after all.
+
+ C>> Fair enough. Now--shall we?
+
+ C>> No more enemies to trouble us here...
+
+ C>> ...It's me. How fare you below?
+
+ C>> ...Understood. I will inform Vrtra.
+
+ C>> Chaos and panic sweep Radz-at-Han, and many more have succumbed to the transformations.
+
+ C>> Amidst the fray, Ahewann fell...protecting a grief-stricken father.
+
+ C>> My friends fight alongside your Radiant Host to secure the capital.
+
+ C>> Beasts have been sighted in Palaka's Stand as well. We have divided our forces in hopes of quelling the threat there.
+
+ C>> Of small solace is that we now know what triggers the transformation. As my companions tell it...
+
+ C>> Will you wallow in sorrow or rise to the occasion?
+
+ C>> Radz-at-Han is leaderless. Before he passed, Ahewann sought to reveal the truth to his people. Honor his wishes.
+
+ C>> Perhaps so...
+
+ C>> Only in death were Hraesvelgr and Shiva united. Indeed, whenever man and dragon have come together, death has ever been the inevitable result.
+
+ C>> 'Twas our fear of your kind that sparked a nigh-endless war.
+
+ C>> Fear and hate of which Nidhogg drank deep as he laid waste to my homeland.
+
+ C>> And in turn I took my revenge on his brood. Blood for blood; pain for pain. I thought nothing of theirs--only of mine.
+
+ C>> And yet...were the chasm between us too vast and too deep, Hraesvelgr would not have borne Ysayle to battle and our rescue.
+
+ C>> He would have never entrusted a mortal champion with one of his eyes, and the Dragonsong War would still rage on.
+
+ C>> And I would still wage a never-ending war of violence and vengeance, the future of our star be damned.
+
+ C>> I cannot speak for Ahewann's greater goals. Yet I know that he served you--served your people--long and true.
+
+ C>> In this time of unprecedented crisis, he turned to you. You could do worse than to place your trust in him.
+
+ C>> It will not be easy, but the future of Radz-at-Han hangs in the balance.
+
+ C>> We have company!
+
+ C>> The hour is come, Vrtra. It's all or nothing!
+
+ C>> Well, well. Seems the babe's taken a liking to you.
+
+ C>> Phew...
+
+ C>> I spied our friends as we flew in...they appeared to be holding their own against the horde.
+
+ C>> A fine battle it must have been. Shame I missed it.
+
+ C>> I was only along for the ride--Vrtra was the one who saw the boy was in need. The two are headed back to the village.
+
+ C>> Perhaps so. Will you go and join them?
+
+ C>> ...Indeed.
+
+ C>> ...No one would survive.
+
+ C>> Keep me abreast of your findings. I can seek out and slay the worst of the immediate threats, if only to slow the spread.
+
+ C>> Report if displayed.
+
+ C>> Tsk.
+
+ C>> I can handle this pair. You...
+
+ C>>  Hmph.
+
+ C>> As you wish, my little lord!
+
+ C>> More of them?
+
+ C>> He'll be after your seat on the Forum next.
+
+ C>> We've finished what we could. Delivered supplies, tracked down escaped animals...trivial tasks as they may be.
+
+ C>> Fascinating as all this is, I fail to see how it explains your presence here. Does Radz-at-Han not have more pressing concerns?
+
+ C>> Prove ourselves worthy, eh? Sounds straightforward enough.
+
+ C>> Where were you in my hour of need? Fell beasts I can face, but I'm not made for idle chitchat with lords and ladies...
+
+ C>> Hmph. I might've been delighted myself were we in a tavern with more agreeable drink.
+
+ C>> The thought of fleeing crossed my mind, but what then? I'd never hear the end of it--least of all from Tataru.
+
+ C>> It's fine. Not like I had better things to do.
+
+ C>> Besides...seeing you with your mother brought back fond memories of my own. Be we rich or poor, family is...family.
+
+ C>> Well, it's past time we were on our way.
+
+ C>>  
+
+ C>> I'm the one who owes you thanks.
+
+ C>> Were it not for you, I would not be alive today, nor come to terms with Nidhogg's spirit.
+
+ C>> I am ever grateful.
+
+ C>>  
+
+ C>> I know, and I won't let you down. Together, we'll show the enemy the strength of mortal will.
+
+ C>> By the Fury...
+
+ C>> Well then, we should hurry and tend to business!
+
+ C>> Huh!?
+
+ C>> Bah...
+
+ C>> I'll handle this.
+
+ C>> So. Waiting to die like all the others, are you?
+
+ C>> So you say, yet your kind has found a new beginning on our star.
+
+ C>> One of you braved the expanse, bearing with him a clutch of eggs. They and their children now rule our skies, their song heard by all.
+
+ C>> They were. They suffered much, and repaid their suffering in kind.
+
+ C>> Had your brethren made the selfsame choice, my family might still be alive.
+
+ C>> Yet lasting peace does not come to those who simply retreat from conflict.
+
+ C>> No, you must be willing to confront it. To stare into the face of your foe...and see yourself in him.
+
+ C>> Only then can you break the cycle of torment and tragedy. This lesson, a dear friend taught me at the risk of his life.
+
+ C>> There is no nobility in your â€œpenance.â€� You wallow in self-pity.
+
+ C>> And after everything we've endured, we will not let you stop us!
+
+ C>> Stay back!
+
+ C>> I see... Theirs is the emotion that bars our way.
+
+ C>> Hmph.
+
+ C>> The rest is up to you.
+
+ C>>  
+
+ C>> You'll find a way regardless.
+
+ C>> On your guard!
+
+ C>>  
+
+ C>> Can you hear... Say...
+
+ C>> Another fine show you've put on, my friend.
+
+ C>> Well, formal association or no, if any of you should require my services, you need but ask.
+
+ C>> I'll be glad to keep my lance arm honed.
+
+ C>> Aye. For Vrtra's benefit, though I've yet to hear the details. I may not stay long.
+
+ C>> Quite right.
+
+ C>> A fortune, you say...?
+
+ C>> I'll take it. Will this cover the price?
+
+ C>> Well met, my friend.
+
+ C>> Someone is dressed for adventure.
+
+ C>> But why Thavnair of all places? Knowing you, I suspect there is more to your plans than sightseeing and shopping.
+
+ C>> Ruins beneath the Bounty...? Curious. And here I've acquired a map to just such a site...
+
+ C>> You needn't mind us.
+
+ C>> This map may or may not be genuine. Either way, we'll need a ship to find out for sure.
+
+ C>> Lest you misunderstand, I seek the treasure not for myself.
+
+ C>> If such a fortune truly exists, then it could help ease the struggles of those who lost their loved ones in the Final Days.
+
+ C>> I hope to do for Thavnair what you and Alphinaud did for the Ala Mhigans when you recovered the mad king's trove.
+
+ C>> Come now, you know Alphinaud needs little encouragement when it comes to recounting the tales of your shared exploits.
+
+ C>> Speaking of precocious lads, that boy in the bazaar was clearly an accomplice of the merchant.
+
+ C>> I suppose his role was to draw the attention of the crowd and add weight to the merchant's bold claims.
+
+ C>> A transparent act for the most part, but 'twas not all mummery--the need to provide for his sister rang true enough.
+
+ C>> Thus if some portion of the profits end up in that waif's pockets, then I will consider it money well spent...whether the map leads us to the vault or not.
+
+ C>> You *are* coming along, yes?
+
+ C>> Hmph, I thought as much.
+
+ C>> I appreciate the concern, but if there is one thing I've learned from my time with the Scions, it is how to better manage my coinpurse.
+
+ C>> Now, let's see about securing a vessel.
+
+ C>> Would that we could deny your accusations...but I fear you're not far from the truth.
+
+ C>> Not long ago, you told us that you called out to your kin; that Azdaja's answer was silence. I suspect the conclusion to your tale is not a joyful one.
+
+ C>> The gate was a threat to your people. You had to decide between endangering Radz-at-Han, and abandoning your sister... And you chose the latter.
+
+ C>> And what of the children who were left without family to care for them?
+
+ C>> This bodes well for that boy--â€œMehrahd,â€� was it? Perhaps he can cut ties with that shady peddler.
+
+ C>> Dragon and man, side by side in pursuit of a brighter morrow. I'm reminded of Ishgard.
+
+ C>> You discovered something new?
+
+ C>> We know this, so why have you sent for us? Have you learned aught of value or not?
+
+ C>> Then what of the many voidsent found in the Source? Who guides them here, and how?
+
+ C>> Wait--you said that voidsent must be called here deliberately by someone in the Source--reeled in like a fisherman with his catch?
+
+ C>> And how do you intend to get your answers?
+
+ C>> You have a plan?
+
+ C>> Unless you anticipate needing help to reach the high shelves, I see myself being of little use. Go on ahead. I still need to find Mehrahd and tell him about the Khalzahl Foundation.
+
+ C>> What is it you're doing now?
+
+ C>> So...this is an experiment of sorts.
+
+ C>> And how would you do that? The gate is still too small for any of us to pass through.
+
+ C>> What? Why are you looking at me like that? Surely you'd not expect me to wriggle through that tiny portal?
+
+ C>> I mislike the sound of that. What manner of fiend does she mean to summon...?
+
+ C>> Ready your arms. I fear she's been possessed...
+
+ C>> As you say...
+
+ C>> And what of our experiment? I'd say the results speak for themselves.
+
+ C>> G'raha's theory was correct, then.
+
+ C>> You've said much of the void's instability, but my imagination fails me. What manner of place is this broken world?
+
+ C>> Vrtra, I presume.
+
+ C>> What can we expect to find after stepping through?
+
+ C>> This Scarmiglione--he *knew* the gate had opened.
+
+ C>> The question is, what will the minions do?
+
+ C>> Your mistress is no more, and the one who consumed her we slew in turn. Do you still mean to try us?
+
+ C>> Hmph. Even beasts ought to understand strength.
+
+ C>> How did it come to be here?
+
+ C>> Indeed. It doesn't.
+
+ C>> Regardless of your form, you are a voidsent by nature.
+
+ C>> So answer me this: are you our enemy too?
+
+ C>> Good enough for me.
+
+ C>> No...
+
+ C>> That fiend again? But we struck it down--watched it die!
+
+ C>> If it's another death they want, I say we give it to them.
+
+ C>> Zero--is there no way to stop them from coming back?
+
+ C>> Report if displayed.
+
+ C>> Well now, that's quite the trick.
+
+ C>> Are you all right?
+
+ C>> Aether as the coin of choice. I appreciate the simplicity.
+
+ C>> For the ambitions of this Golbez...
+
+ C>> She's here!
+
+ C>> So you're Barbariccia. 
+
+ C>> If you think us easy prey, you're wrong.
+
+ C>> What's the plan, then?
+
+ C>> Aye, that we would. Even so, we don't have any intention of turning tail now, do we?
+
+ C>> We find her and get our answers. Will you be joining us, Zero?
+
+ C>> You're not the only ones who can ride the wind!
+
+ C>> Her minions, too, are all crystallized or scattered. The day is ours.
+
+ C>> Our efforts have not been entirely fruitless.
+
+ C>> We have deprived your sister's captor of another powerful champion. With Zero, we may yet challenge Golbez and his minions.
+
+ C>> I wouldn't want to face another archfiend without her. We should hurry back to Zero's domain.
+
+ C>> Zero.
+
+ C>> She looks like any other person. Unsurprising, perhaps, given that she is only part voidsent.
+
+ C>> Not the first to be corrupted by power--nor the last.
+
+ C>> To find a dragon, aye. And in light of what we've seen, we'd be fools to strive for more.
+
+ C>> But we Scions--former Scions, begging your pardon--have a habit of not leaving well enough alone.
+
+ C>> And old habits die hard, don't they, my friend?
+
+ Q>> ...You flatter me overmuch, Lord Commander.
+
+ Q>> If ever I was without equal, I am no longer--as my fellow Azure Dragoon here will attest. Be at ease, [WARRIOR OF LIGHT]--I did not come to challenge you this day.
+
+ Q>> Ah, it is you...
+But of course...it is only fitting that fate should draw the two of us together.
+
+ Q>> So, you are the adventurer of whom they spoke...
+I see now why my blood fair sang in anticipation of our meeting.
+
+ Q>> Nor does age rob them of their strength. Through the endless march of years, the dragons endure. Patient. Calculating. Inexorable. You must understand: these creatures do not share our perception of time.
+
+ Q>> And that is especially true of the great wyrms--they who spend centuries in slumber only to wake and resume their campaign as if mere hours had passed.
+
+ Q>> Allow me, Ser Aymeric.
+
+ Q>> Through the power of the Eye, I have become the vessel of Nidhogg's strength. His essence has stolen into my very blood.
+
+ Q>> Fear not--I am in full control of my faculties, I assure you. And the Eye itself is of no relevance to this tale--it is not essential that I bear it with me wheresoever I go.
+
+ Q>> Its lingering influence does, however, allow me to hear Nidhogg's voice...
+
+ Q>> ...Was Nidhogg, aye. He means to hurl his Horde against Daniffen's Collar, and shatter the remaining wards that protect the city.
+
+ Q>> There can be no doubt--the wyrm has summoned his minions to war.
+
+ Q>> One of Nidhogg's greatest champions...slain. The Horde will not soon recover from this blow.
+
+ Q>> But what of you, Nidhogg? Why did you not join your minions and make of this battle a slaughter? Have you grown so fond of the stench of your lair?
+
+ Q>> Mayhap you prefer to have your allies fight your battles for you... You have a girl to do your bidding now, do you not? No matter. I shall slay Iceheart, and all the rest...
+
+ Q>> ...But I yearn to spill the blood of a great wyrm, Nidhogg, and only your death will sate my lance.
+
+ Q>> That Ishgard would resort to sending coin-starved adventurers after me... I know not whether to laugh or feel insulted.
+
+ Q>> Th-The Eye! It rouses...for another!?
+
+ Q>> Preposterous...
+
+ Q>> Our paths shall cross again. You can be sure of it.
+
+ Q>> Greetings, Master. It has been too long.
+
+ Q>> Ah, but it is *already* too late, Master. For you see, Nidhogg has already awakened.
+
+ Q>> Hear me, Master: you have mistaken the cause of the dragons' return--the Eye is not to blame.
+
+ Q>> A premonition came to me by virtue of the dragon within, warning me that the great wyrm would soon rouse.
+
+ Q>> Even as he slumbered, Nidhogg seethed with irrepressible rancor for that wound of twenty years ago. That rancor will send him flying as a speeding arrow to Ishgard, whereupon death and devastation will ensue.
+
+ Q>> But there is a possible solution: were the Eye taken to a remote land, far from the Holy See--then, and only then, could destruction be averted and the lives of innocent Ishgardians be spared.
+
+ Q>> To me, the two are one and the same. You know my past better than any else. It was for no other reason than to avenge my family that I became a dragoon.
+
+ Q>> Dragons long outlive men and do not soon forget the wrongs done them. What grudge they harbor burns as a fire in their hearts, over time swelling into an unquenchable inferno. You need only look back on history to see that Nidhogg grows stronger with each awakening.
+
+ Q>> When last he darkened our skies, the great wyrm came within a hair's breadth of laying waste to Ishgard. Naught short of death will prevent him from completing his mission when next he wakes. Nidhogg took everything from me--now I shall take everything from him, even if it means my life.
+
+ Q>> The Eye works in ways men can ill comprehend, but this much is plain: in choosing two Azure Dragoons in one generation, it means for us to join together in common cause.
+
+ Q>> Adventurer. You have heard my resolution. Now I ask that you lend me your power--aye, the power of the dragon.
+
+ Q>> In the long and proud history of Ishgard, never before have two Azure Dragoons arisen in the same era to fight as one. This is our best--nay, our *only*--chance to send the great wyrm to eternal slumber.
+
+ Q>> Behold my armor. This is the drachen mail, forged in the lifeblood of dragons. As blood calls to blood, so too does the armor call to the dragon within, redoubling the wearer's strength thereby. If you would realize your potential as an Azure Dragoon, you must needs clad yourself in the same.
+
+ Q>> Clad so, you will inherit the technique passed from Azure Dragoon to Azure Dragoon down through the generations. Then--and only then--will your training be complete.
+
+ Q>> But first, you must win the drachen mail as I and Ser Alberic did before you, by proving yourself worthy in the ultimate trial of the Azure--a series of battles so harrowing as to send the unworthy to an early demise.
+
+ Q>> Master. Once the adventurer acquires the armor, pray see to it that <If(PlayerParameter(4))>she<Else/>he</If> learns to harness the power of the dragon in full.
+
+ Q>> Save your worries. I do not mean to make myself easy prey for dragons.
+
+ Q>> I take my leave of you.
+
+ Q>> Alberic. I have waited long for this day.
+
+ Q>> You, who fancy yourself an Azure Dragoon. The man whose cause you have taken for your own is a coward. He relinquished the power of the dragon of his own volition and watched as Ferndale burned.
+
+ Q>> Do you not think it ironic that I was chosen Azure Dragoon? I, an orphan who has naught of value to protect in Ishgard?
+
+ Q>> I suppose I must give thanks, for it was the Eye that revealed to me the truth--a truth so damning as to undo a lifetime of trust. I loved you as a father...but I can ill forgive you for Ferndale.
+
+ Q>> As I understand it, you've kept even the archbishop in the dark regarding the missing Eye. Do you mean to take your shame to your grave?
+
+ Q>> But I waste my breath. Prepare yourself, old man, for I shall lay to waste all the things you hold dear. And once I'm finished with you, I shall do what no Azure Dragoon has succeeded in doing--I shall claim Nidhogg's head!
+
+ Q>> [WARRIOR OF LIGHT]...
+
+ Q>> In you, I thought I had found kindred, someone beside whom I could fight the great wyrm.
+
+ Q>> It is with a heavy heart that I relinquish that dream. Your affection for this coward has rendered you deaf to your own destiny.
+
+ Q>> Very well. That we would one day cross lances was inevitable from the moment of our first meeting--as we shall now find out who is the Eye's true chosen. There can be only one!
+
+ Q>> O mighty Nidhogg! Lord of Dragons!
+
+ Q>> Grant unto me thy blood, that I might be granted the claws and fangs wherewith to rend thine enemies!
+
+ Q>> ...[WARRIOR OF LIGHT]!? Th-This is impossible! It cannot be!
+
+ Q>> I am the Eye's true chosen...
+And you shall know it when I bury my lance in your chest!
+
+ Q>> Ah, yes...the power of the Eye.
+But it cannot compare to mine own!
+
+ Q>> You have awakened the dragon, [WARRIOR OF LIGHT]!
+Now my flames shall consume you whole!
+
+ Q>> Power! I must have more power!
+O, Lord of Dragons, grant me strength to raze thine enemies!
+
+ Q>> I will say this for your plan: it has made keeping secrets from the Holy See seem almost entertaining.
+
+ Q>> Then I shall await you at Saint Reinette's Forum. Tell your friend we may be some time--the road you have chosen is neither short nor easy.
+
+ Q>> I will say this for your plan: it has made keeping secrets from the Holy See seem almost entertaining.
+
+ Q>> Have you spoken with your friend? ...Well, see that she is prepared for a long wait. She will burn many a candle at her window ere we set foot in Ishgard again.
+
+ Q>> You have said your farewells, then?
+
+ Q>> Very well, but she will prove an elusive quarry. Where do you intend to start looking?
+
+ Q>> Let us divide our forces, then. I will stay and await the return of the patrol while the two of you visit this refuge. When I have completed my inquiries, I will join you there.
+
+ Q>> As agreed, I will stay and await the return of the patrol while the two of you visit the heretics' refuge. When I have completed my inquiries, I will join you there.
+
+ Q>> My inquiries availed me naught. The patrol leader had little to say beyond which of his extremities the frost had bitten the hardest...
+
+ Q>> My interrogation of the patrol proved fruitless. Either we divine some clue from these letters, or we wander the snowfields and pray that the gods lead us right to Iceheart's door. 'Tis hardly a choice at all...
+
+ Q>> My inquiries availed me naught. The patrol leader had little to report beyond which of his extremities had frozen the most completely...
+
+ Q>> Where are these damnable pages...? I'd rather battle two score aevis than continue this confounded search!
+
+ Q>> If that is our destination, the journey will be long indeed. The amphitheatre lies on the other side of a treacherous tract of ice and snow that cannot swiftly be crossed.
+
+ Q>> It should. House Durendaire posted soldiers at the western highlands entrance after the tunnels were cleared, but they will not deny us entry.
+
+ Q>> â€œAkh Afahâ€� is taken from the dragons' tongue--it means, roughly, â€œEternal Circle.â€� 'Tis little wonder the heretics thought to return to the place.
+
+ Q>> What ails our young lord? The moment we arrived at the wall, his face took on an ashen pallor. Does he fear facing the heretics within their own lair?
+
+ Q>> Mayhap you should ask its occupants. They seem a friendly bunch.
+
+ Q>> My reputation precedes me...
+
+ Q>> What would you ask that we do not already know? They make for the Cinders, and so must we. Even should an ambush await us, 'tis certain there will be more heretics to *question*.
+
+ Q>> ...I suspect it is the heretics' way of referring to the Dreaming Dragon--an island of sorts found in the midst of the frozen lake of Ashpool.
+
+ Q>> Some five hundred years past, 'tis told that the Azure Dragoon of the age fought a dragon of titanic proportions. After a savage struggle, the mighty creature was weakened unto the point of death, and forced into a magicked slumber by an entire chapter of the Holy See's sorcerers.
+
+ Q>> Ere long, a rain of ash and cinders did begin to fall upon the sleeping serpent's motionless form, covering the creature at length in a shroud of grey. ...Of course, a thick layer of ice has since formed on top of it, but you may be sure I speak true.
+
+ Q>> The Dreaming Dragon lies far to the west. Before we approach the frozen beast, however, there is another place I would visit first.
+
+ Q>> I am told the Convictors have set up camp in Twinpools. Their leader, Jantellot, may have information of use to us.
+
+ Q>> Ah, but mayhap you are not familiar with that name, either... The Convictors are dragonslayers--after a fashion--but I am willing to wager that they encounter their fair share of heretics. If we are indeed walking into a trap, I would learn all there is to know of our foe.
+
+ Q>> Be not so quick to judge. I have seen this â€œfrailâ€� youth fell heretics with a flick of his wrist.
+
+ Q>> Waste no more words on them. They are deaf to reason.
+
+ Q>> By the Fury... They partake of the blood of dragons!
+
+ Q>> At last, a foe I might sink my lance into.
+
+ Q>> I cannot fall to this rabble...
+
+ Q>> ...I may have erred in seeking the wisdom of these whelps.
+
+ Q>> ...Is that so? Why then...I am minded to start a fire.
+
+ Q>> If we are to lure our foes to our position, then we must find a means of producing a signal of purple hue.
+
+ Q>> ...As it so happens, I once heard the tale of a trapper who dropped the hide of a wooly yak onto his campfire. Aside from the terrible stench, the story also described in detail how the smoke from the smothered flames was tinged a deep violet.
+
+ Q>> You are a monster hunter of some note, are you not, [WARRIOR OF LIGHT]? It should prove a trifling task for you to procure a number of hides. We may need to burn more than one ere the heretics notice our beacon.
+
+ Q>> Master Alphinaud. You and I shall gather wood for the fire. Aye, it will take the both of us to find enough dry fuel in this frozen wasteland. Let us meet again at the Dreaming Dragon with the fruits of our labor.
+
+ Q>> 'Twould seem that collecting firewood is a new experience for Master Alphinaud. His must have been a privileged upbringing... Ahem. Have you the hides we need?
+
+ Q>> Be on your guard, Warrior of Light. With the mistress of the heretics as our guide, we may yet find that we are being led to our graves.
+
+ Q>> Only to this ceaseless chatter. If we are to meet this *acquaintance* of yours, let us do it before Ishgard burns.
+
+ Q>> Do you sense them, [WARRIOR OF LIGHT]? A gathering of dragons, to the west...
+
+ Q>> These hunters scrabble in the shadow of dragons for naught but the love of coin. Greed inspires courage and madness in equal measure, it seems.
+
+ Q>> They have changed, then. What of it? We have not the time to creep through the underbrush on some roundabout route. I say we make straight for Sohm Al and crush any unruly insect we meet underfoot.
+
+ Q>> Hmph. You claim this as evidence of our harmonious past? I was taught that these buildings were constructed by heretics, in honor of your Dravanian masters. This rubble inspires no such awe in me...
+
+ Q>> You would have me keep my counsel until [WARRIOR OF LIGHT]'s visions confirm the truth? Very well. But bait me not.
+
+ Q>> These antmen are bold to bring their war to the dragons' doorstep. Mayhap we should invite them to man the walls of Ishgard...
+
+ Q>> Hmph. 'Twould seem the enemy of mine enemy is *also* mine enemy.
+
+ Q>> On my word to the Warrior of Light, I shall start no fight...only *finish* it.
+
+ Q>> A greater dragon approaches...
+
+ Q>> Are you not glad, Lady Iceheart? I thought you would applaud them for summoning a primal to further their own ends. After all...*you did*.
+
+ Q>> By the Fury... Must we now defeat a primal, that we might treat with a wyrm? I do begin to see how you gained your reputation for surmounting the insurmountable...
+
+ Q>> ï¼ˆâ˜…æœªä½¿ç”¨ï¼�å‰Šé™¤äºˆå®šâ˜…ï¼‰
+
+ Q>> I shall gather the fruit--leaping to the lower branches of these forest giants should present little challenge to me.
+
+ Q>> When I set out to master the dragoon's jump, 'twas not to strike fear into the hearts of high-hanging fruit.
+
+ Q>> Calm yourself, Master Alphinaud. Our offering has not gone unnoticed.
+
+ Q>> ...Strangely friendly, are they not? Or mayhap just strange.
+
+ Q>> When I set out to master the dragoon's jump, 'twas not to strike fear into the hearts of high-hanging fruit.
+
+ Q>> 'Twas likely one that had fled battle with my kinsmen. I should commend you for finishing the job.
+
+ Q>> How lightly you propose the destruction of this god, Master Alphinaud--a being of whom we know naught. Has it occurred to you that you may be sending the Warrior of Light to [his/her] death?
+
+ Q>> Ha! Do you truly imagine yourself a second Warrior of Light? Remind me: how many primals have you faced, my lady? Not that it matters--we know not where this god resides, or how to challenge it. Unless you mean to pray until it appears?
+
+ Q>> The young lord certainly appears eager to prove his worth...
+
+ Q>> Even a wounded dragon is a dangerous opponent--these antmen did well to overpower one.
+
+ Q>> By the Fury... I would swear these beastmen know less about their god than I do.
+
+ Q>> And what has that to do with their primal or their faith, Master Alphinaud? Let us glean the information we require, and be done with this place...
+
+ Q>> I do not envy the antmen their bond. Were every man's mind made known to his neighbor, Ishgard would not last a bell.
+
+ Q>> ...And of the nature of their own god. In summary, we have wasted our time.
+
+ Q>> ...Would that I could fight at your side, Warrior of Light. But the power of the dragon is no protection against primal influence. Forgive me, but I must remain here with Master Alphinaud.
+
+ Q>> I would be curious to test my lance against a beast tribe's god, but I cannot risk falling under its sway. Tell me of the battle upon your return, Warrior of Light.
+
+ Q>> I will admit, I had begun to wonder whether â€œNonmindâ€� meant â€œbrainless.â€� Apparently not.
+
+ Q>> The antmen's god is fallen, then? Impressive, Warrior of Light.
+
+ Q>> Never did I doubt you, Warrior of Light...unlike some. You were gone so long that Master Alphinaud here nigh lost his wits with worry. Fretting like a maid for her sweetheart, he was!
+
+ Q>> Hahaha... Not truly necessary--but certainly *true*.
+
+ Q>> ï¼ˆâ˜…æœªä½¿ç”¨ï¼�å‰Šé™¤äºˆå®šâ˜…ï¼‰
+
+ Q>> Ahh, you should have seen the boy fretting... 'Twas a sight to behold!
+
+ Q>> Vidofnir will be pleased to hear of Lord Ravana's defeat, and of his pledge to recall his soldiers.
+
+ Q>> Will the dragon now honor her word? That remains to be seen...
+
+ Q>> The way is open. Let us not tarry here.
+
+ Q>> I do not fear Nidhogg's consort. Any dragon foolish enough to bar our path shall feel the sting of my lance.
+
+ Q>> Let us be clear, *heretic*: 'twas to save Ishgard and her people that I first lent my support to this doubtful venture. And 'tis for their sake that I go now to speak with Hraesvelgr.
+
+ Q>> But I said nothing of Tioman. Should the opportunity present itself to rid my people of one of their deadliest enemies, I shall take it. That is my duty as Azure Dragoon.
+
+ Q>> I feel the weight of Dravanian rancor pressing down upon me...
+
+ Q>> As I thought. Blind to reason like all the rest. If you would see our mission to its conclusion, you know what must be done.
+
+ Q>> 'Twould seem Tioman was the last. I sense no other dragons nearby.
+
+ Q>> <gasp> Nidhogg... He roars.
+
+ Q>> His fury... <gasp> It bleeds through the Eye.
+
+ Q>> Fear not, I am yet my own master...
+
+ Q>> ...But that damned wyrm's wrath burns hotter than flame... Come, the heart of the dragons' homeland yet lies before us.
+
+ Q>> Ahhh... I feel the wyrm's anger. His lair is not far...not far at all.
+
+ Q>> This place is far from the barren mountaintop I pictured in my mind...
+
+ Q>> A â€œmoogle,â€� did you say? I am unfamiliar with the breed, but I shall search for one nonetheless...
+
+ Q>> I see no evidence of this moogle of yours. Are you certain it wasn't a trick of the light? Mayhaps 'twas simply one of these strange plants, shifting in a breeze...
+
+ Q>> Though the Eye enables me to sense the presence of dragons, I can only identify Nidhogg's with any certainty. We could wander the Mists for days, and not know if we were any closer to his brood-brother...
+
+ Q>> Assuming you have no need of me, I shall remain here.
+
+ Q>> Nidhogg senses both the loss of his consort and the coming of the Eye, and his attention is firmly fixed in this direction. I mean to do what I can to hold his gaze, in the hope that it might delay any action against Ishgard.
+
+ Q>> I sincerely hope you have taken Master Alphinaud's advice concerning the aetheryte. You would not wish to miss the sport if Nidhogg deigned to visit us in your absence.
+
+ Q>> Well met, Warrior of Light. Nidhogg has not stirred, but he watches us, unblinking...
+
+ Q>> ...Hm? The Elder Seedseer herself answers your call? Then there is naught to do but wait.
+
+ Q>> They are here, [WARRIOR OF LIGHT].
+
+ Q>> ï¼ˆâ˜…æœªä½¿ç”¨ï¼�å‰Šé™¤äºˆå®šâ˜…ï¼‰
+
+ Q>> How go your trials, Warrior of Light? I myself have been sent on a number of expeditions to â€œchastiseâ€� the local dragon population. Did not their chieftain wish to *avoid* inflaming the Dravanians...?
+
+ Q>> Such contradictions aside, our hosts seemed entranced by the height of my leap. They compared me to â€œMog,â€� a lance-wielding moogle warrior of eld who also favored such attacks.
+
+ Q>> 'Twas meant as a compliment, I expect, but I doubt these furry lumps could outleap a karakul lamb, much less a dragoon. Conclude your business here swiftly, [WARRIOR OF LIGHT]--I like not this place.
+
+ Q>> Grrr...
+
+ Q>> ...Should we ever arrive at his lair. Come--we have squandered enough time already.
+
+ Q>> Barefaced little bastards... They have played us for fools.
+
+ Q>> What was I thinking, listening to those self-satisfied little... <mumble>
+
+ Q>> Must we have this creature as our guide? I would sooner flay the thing than follow it.
+
+ Q>> Enough talk. Let us leave this risible place behind us.
+
+ Q>> Enough talk. Let us leave this risible place behind us.
+
+ Q>> Never would I have believed that so much land lay hid above the clouds... Dravania is not as I imagined it.
+
+ Q>> Never would I have believed that so much land lay hid above the clouds... Dravania is not as I imagined it.
+
+ Q>> Who can say when the weather will turn... I have a mind to make camp.
+
+ Q>> Hmph. â€œClear our mindsâ€�? 'Tis Master Alphinaud whose mind needs clearing. The thought of meeting a great wyrm in the flesh has befuddled the boy.
+
+ Q>> Did you see him stroll away as if these ruins were not crawling with deadly beasts? Follow him, [WARRIOR OF LIGHT], and see that the wildlife does not make a meal of our young friend.
+
+ Q>> We will have the camp ready by the time you return.
+
+ Q>> Master Alphinaud's artless quest for firewood is like to get him killed. I suggest you follow after the boy, and see that no harm comes to him.
+
+ Q>> Leave the firewood to me!
+
+ Q>> I see I was right to worry about the boy's safety.
+
+ Q>> Once Alphinaud returns with the wood, we can see about supper. The ice queen has filled a pot with what looked like stew ingredients, ready for the fire.
+
+ Q>> Hah! So speaks the â€œgreat explorer.â€� Until recently, you wouldn't have recognized firewood if it came with kindling and a flint.
+
+ Q>> You are well on your way, Master Alphinaud. At your age, I was but a fool swinging a spear, with scarcely a thought in my head.
+
+ Q>> Even now, I struggle to acknowledge the misconceptions under which I have labored.
+
+ Q>> Sitting here, amongst these grand ruins, how can I deny that man and dragon once lived in peace?
+
+ Q>> But for all that such an age existed, we are now in a time of war. Nidhogg killed my family, and no quirk of history will exonerate him.
+
+ Q>> I may be ignorant of how the Dragonsong War began, but if we do not put an end to this conflict now, I can say for a certainty that it will only breed more vengeful souls such as mine.
+
+ Q>> In my hands resides the power to vanquish a great wyrm. If Ishgard's survival rests on me wielding that power, I will slay Nidhogg myself...orders or no.
+
+ Q>> My word is contingent upon the success of our parley. Show me the strength of *your* convictions, Lady Iceheart. Convince Hraesvelgr of the righteousness of your cause.
+
+ Q>> Whenever you are ready, Warrior of Light. Full eager am I to gaze upon this great wyrm.
+
+ Q>> It is time, Warrior of Light.
+
+ Q>> As predicted, Iceheart's faith in the wyrm was misplaced. Which leaves us with but one recourse. You know I have the right of it, Warrior of Light.
+
+ Q>> Iceheart's faith in the wyrm was misplaced. Which leaves us with but one road to follow...
+
+ Q>> Hm. A force of sufficient power to break through a primal's defenses might conceivably grant us access to the Aery...
+
+ Q>> ...And I can offer no better solution. Pray consult this engineer friend of yours.
+
+ Q>> And steal all the glory for myself, you mean? Nay, I am not so selfish as that. Contact me by linkpearl when your preparations are complete, and we shall set forth from Ishgard together.
+
+ Q>> Go, meet with your engineer friend. I shall remain here and keep vigil over the wyrm.
+
+ Q>> You have fulfilled your obligations to the Ul'dahns, then? Mistress Tataru has been keeping me apprised of the situation.
+
+ Q>> Once I learned that these â€œmanacuttersâ€� of Master Garlond's were nearing completion, I saw no reason to tarry in the Mists.
+
+ Q>> For the present, Nidhogg seems content to remain in the Aery, plotting his revenge.
+
+ Q>> Might not this be an apt moment to unfold our plans to Ser Aymeric? I think we have kept him in the dark long enough.
+
+ Q>> I have pricked Master Alphinaud's pride I fear. But had I been less forceful, the boy would have insisted on accompanying us to the Aery.
+
+ Q>> Do not think me blind to his talent. With a few more campaigns under his belt, I have no doubt that Alphinaud will make a fine field commander.
+
+ Q>> But one does not *practice* on an adversary such as Nidhogg. We shall be hard-pressed enough without the added worry of carrying a novice.
+
+ Q>> We have tarried long enough. Let us call upon Master Garlond and take possession of the manacutters.
+
+ Q>> The moment is at hand, Warrior of Light.
+
+ Q>> You have our thanks. Come, Warrior of Light--the dread wyrm awaits!
+
+ Q>> To the manacutters, Warrior of Light--the dread wyrm awaits!
+
+ Q>> Though Nidhogg is fallen, my heart is yet heavy.
+
+ Q>> ...And this stain of corruption pleases me not.
+...When all has been put to rest, I must needs forge my armor anew.
+
+ Q>> With Nidhogg fallen, none save Hraesvelgr remains to answer our questions. Let us trouble the wyrm again.
+
+ Q>> And if Iceheart yet lingers at Zenith, all the better. I would have her hear the truth from the dragon's maw.
+
+ Q>> ...She has scarce moved since last we parted. Hmph. Hraesvelgr's confession will soon shake her from her stupor.
+
+ Q>> Spare us your sanctimonious judgment, ice maiden. We have a *gift* for the great wyrm...and a mystery that can no longer lie buried.
+
+ Q>> Lady Iceheart--the Dragonsong War has all but consumed your life and claimed many of your followers. 'Tis time you learned the truth of its beginning--the *whole* truth--that we may at last bring this bitter conflict to an end.
+
+ Q>> Sound the horn, Warrior of Light!
+
+ Q>> Though he lifted not a single claw, 'twould seem that Hraesvelgr wreaked his own manner of vengeance against us...
+
+ Q>> Let us see how long this peace lasts...
+
+ Q>> ï¼ˆâ˜…æœªä½¿ç”¨ï¼�å‰Šé™¤äºˆå®šâ˜…ï¼‰
+
+ Q>> ï¼ˆâ˜…æœªä½¿ç”¨ï¼�å‰Šé™¤äºˆå®šâ˜…ï¼‰
+
+ Q>> Let us break the news to them together. I will bring Ser Aymeric to Fortemps Manor.
+
+ Q>> Let us see how long this peace lasts...
+
+ Q>> Hmph. Of all the people... He should know better.
+
+ Q>> The dragoons have no love for politics, my lady. They will gladly watch and wait while the highborn fight amongst themselves.
+
+ Q>> I thought the lord commander wiser than this.
+
+ Q>> Curse those bloody whoresons and piss on their swiving round table.
+
+ Q>> You may ever count on my lance, Ser Aymeric. To my dying breath, I shall defend Ishgard from the Horde.
+
+ Q>> Could Nidhogg sense their power? Is that why he did not lead his minions into battle?
+
+ Q>> The power of the Eye is not to be drawn upon lightly, but I believe we have sufficient cause to do so.
+
+ Q>> Azure wings to bear us to the final battle... I must admit there is poetry to it.
+
+ Q>> Azure wings to bear us to the final battle... I must admit there is poetry to it.
+
+ Q>> The revelations of recent days may have overturned the foundations of my faith, but my purpose remains unchanged: ending this damnable war.
+
+ Q>> From Hraesvelgr, I would wager. He will have felt my channeling of the Eye's power.
+
+ Q>> It would seem they were able to make peace with one another in the end.
+
+ Q>> Though we walked opposing paths, Iceheart was a worthy woman. Her deeds will not soon be forgotten.
+
+ Q>> I sense an ominous presence...
+
+ Q>> I sense an ominous presence...
+
+ Q>> Machines are beyond my ken--I shall leave it to the others to find this â€œterminal.â€� Of more concern to me are the dragons that I sense nearby.
+
+ Q>> This ominous presence... To whom does it belong?
+
+ Q>> Did you find anything?
+
+ Q>> What in the Fury's name is that thing?
+
+ Q>> So we are to follow that...thing? ...I shall leave it to you to deal with it.
+
+ Q>> We have scarce begun, and already it leads us to a dead end.
+
+ Q>> We have scarce begun, and already it leads us to a dead end.
+
+ Q>> Are you certain it is wise to trust this orb with our lives?
+
+ Q>> Are you certain it is wise to trust our lives to this orb?
+
+ Q>> The orb is beginning to try my patience.
+
+ Q>> I welcome the chance to limber up ahead of the battle to come.
+
+ Q>> Machines are not to be trusted, least of all those that can think.
+
+ Q>> Machines are not to be trusted, least of all those that can think.
+
+ Q>> Whether or not they mean to linger, their presence here and now is an unwelcome complication.
+
+ Q>> 
+
+ Q>> 
+
+ Q>> 
+
+ Q>> Wait. Something is afoot.
+
+ Q>> Hmph, naught but toy soldiers to knock down.
+
+ Q>> (-???-)'Tis good to see you again, Warrior of Light.
+
+ Q>> It would seem that we two Azure Dragoons share one target. Though I suppose neither of us still hold that mantle--old habits do not die so easily.
+
+ Q>> And who exactly is your diminutive friend, [WARRIOR OF LIGHT]?
+
+ Q>> A journey to the Far East in search of an ancient wyrm's consort? Quite a tale indeed.
+
+ Q>> At the end of my own journey, I chose to continue my travels and eventually found myself in the Far East. It was here that word of the dragon you seek reached mine ears.
+
+ Q>> After seeing the future of the Holy See placed in Ser Aymeric's capable hands, I chose to embark upon my own journey. One that would allow me to rediscover my purpose, now that Ishgard no longer has need of an Azure Dragoon. It was during my travels that I came to learn of the dragon you seek.
+
+ Q>> It had been my intention to act as an intermediary between man and dragon, assuming the beast could be reasoned with. If not, I was prepared to brandish my lance.
+
+ Q>> Regardless, I would wager that the young one has the right of it. What is more, she is doubtless still suffering from the effects of Nidhogg's hateful dirge that summoned the Horde.
+
+ Q>> The dread wyrm's hold over his brood was absolute. His unquenchable thirst for vengeance spread through the Horde, leaving none untouched. To think one of them was able to resist his call to decimate Ishgard...
+
+ Q>> It should come as no surprise that she would succumb to madness; the wyrm spent a millennium in solitude resisting Nidhogg's demands for vengeance.
+
+ Q>> I can think of but one way she may be saved: we weaken her enough that she is willing to listen to reason.
+
+ Q>> I do not advocate the same approach, little one. I would have you do more than simply talk to her, nay, you shall use your roar. That is the only way you can hope to let her know the war is ended, that her consort awaits her in the skies above.
+
+ Q>> You have the two dragoons that bested Nidhogg at your side--there is naught to fear. All you need do is harness your roar to clear the haze that clouds the wyrm's eyes.
+
+ Q>> Let us depart. The frenzied dragon awaits us on Bardam's Mettle--the time is nigh to free her from war's tragedy!
+
+ Q>> With me!
+
+ Q>> Now, little one! Roar with all your being!
+
+ Q>> Not quite what I expected when I took on this job, I must admit. But it has been quite something to see what the young dragon is capable of.
+
+ Q>> Your words are appreciated, but the appellation is unnecessary. I have long since left that life behind.
+
+ Q>> My past experiences with Nidhogg made me eager to see Faunehm saved.
+
+ Q>> When the dread wyrm took me as his...vessel, I felt his mad heart's palpitations as mine own. There was no end to the sadness and distress that flowed from his soul. However, it was this ordeal that allowed me to harness the dragon within, whilst retaining my sense of self.
+
+ Q>> You ought to be capable of the same by now, [WARRIOR OF LIGHT]. It shall doubtless serve you well in battles to come.
+
+ Q>> Hahaha... I can see myself warming up to this new name.
+
+ Q>> The best of luck to you, Orn Khai. I expect you to be as strong as your father the next time our paths do cross. Warrior of Light, I look forward to the day when we are able to fight side by side once more. Keep well.
+
+ Q>> I've seen him in action. His body at least. You will not best him alone.
+
+ Q>> For what good it will do...
+
+ Q>> Whatever he is, *[WARRIOR OF LIGHT]* was barely a match for him. If we stay here much longer--
+
+ Q>> ...We may wear out our welcome.
+
+ Q>> 
+
+ Q>> Well? Any bright ideas?
+
+ Q>> Well, well... Someone's been busy.
+
+ Q>> And you would bar my way, would you? ...So be it.
+
+ Q>> Come, Nidhogg! Lend me your strength!
+
+ Q>> Garleans and their machina...
+Now...where are you, Gaius?
+
+ Q>> Tiamat summoned Bahamut once before. She may have again--willfully or no.
+
+ Q>> I too have met with Tiamat.
+
+ Q>> After the Dragonsong War came to a close, I came here to speak with her--a wyrm who had fought her own war against man in another age.
+
+ Q>> I wished to know if she yet harbored thoughts of vengeance, and asked as much. She said no.
+
+ Q>> "My hatred for your kind was extinguished long ago.â€œ
+
+ Q>> But the guilt she feels for resurrecting Bahamut burns on undimmed. It *torments* her, even now.
+
+ Q>> Nidhogg is a part of me. I feel his emotions as my own. And I know that he would not allow his sister to be made a tool of evil.
+
+ Q>> In his absence, it falls to me to watch over her.
+
+ Q>> Tiamat awaits. This way.
+
+ Q>> ...
+
+ Q>> It would seem she still has some pride after all. Let's see if she's as good as her word.
+
+ Q>> I know Alphinaud and [WARRIOR OF LIGHT] here well enough--but not you. Are you certain you're ready to see this through?
+
+ Q>> I gather you are not as young as you look.
+
+ Q>> And be indebted to her for the leaves and hot water? I think not.
+
+ Q>> I would rather leave these Allagan contraptions to you and Alphinaud...
+
+ Q>> These...nodes, or whatever it is you call them--why do they quiver so?
+
+ Q>> Infernal things... One of them sent a swarm of mechanical vilekin to plague me. I must have angered it...
+
+ Q>> Hmph. I know the one--though I thought the stench more akin to a fire in a manure shed. But it seemed likelier to explode than grant our wish. Surely there must be another?
+
+ Q>> How did the Allagans tell these godsforsaken things apart?
+
+ Q>> ...Very funny. But if that *thing* speaks my name, I shall see that it never speaks again. Use your own. [WARRIOR OF LIGHT], in case you've forgotten.
+
+ Q>> Well, that's more than I can say. Confounded bloody thing...
+
+ Q>> Now that I *do* understand. You can go first.
+
+ Q>> So can this thing release the restraints or not?
+
+ Q>> ...Until which time it'll float there spewing nonsense?
+
+ Q>> I don't know what possessed the Allagans to surround themselves with these chattering orbs, but the fact that they remain while their creators do not speaks volumes...
+
+ Q>> Don't look at me. This is a task for you and Alphinaud.
+
+ Q>> Don't bother trying to explain. Just tell me if we've made any progress.
+
+ Q>> ...Just a little more work and Tiamat will be free.
+
+ Q>> But before we go any further, there is something I would know.
+
+ Q>> When Tiamat and her kin fought against the Allagan Empire, both sides were but dancing to the tune of the Ascians.
+
+ Q>> And it was the same in Ishgard, where they stoked the fires of conflict between man and dragon from the shadows.
+
+ Q>> All that the Ascians touch turns to ash, and thus have you made it your mission to fight them.
+
+ Q>> But there have been times when you tried to reach out to them instead. To find common ground.
+
+ Q>> And so I must ask: what do you intend to do with Fandaniel? Will you try and reach out to him too?
+
+ Q>> But did he not tell you that he was beyond reason? If he wishes to die, I say we oblige him.
+
+ Q>> Hmph. I see little point in reasoning with the wretch. Or remembering him for that matter.
+
+ Q>> Hmph. I'd rather put my lance through his heart and be done with it.
+
+ Q>> But perhaps that's the difference between you and me. You see the good in people--even if it be but the faintest glimmer. I only hope you do not come to rue your benevolence.
+
+ Q>> Far from it. That has ever been your way, as I learned when we journeyed together with Iceheart.
+
+ Q>> Yet the fact remains that there are some who view compassion as a weakness to be exploited. And there may come a time when you extend the hand of friendship only to wish that you had dealt the killing blow.
+
+ Q>> So...save your mercy for those who deserve it.
+
+ Q>> ...Well, we should be getting back to our task. If Alphinaud has things in hand here, I suggest we rejoin the others.
+
+ Q>> If this Fandaniel truly is without reason or creed, he is no better than a rabid dog. Treat with him if you must, but be ready to do what is necessary.
+
+ Q>> Hmm... Tiamat saw Bahamut as an equal rather than a god. Might that have made a difference?
+
+ Q>> Fine sentiments--but you're almost spent. I'll keep watch from above. If the treatment fails...run.
+
+ Q>> The girl is as stubborn as her brother. By now, her aether must be all but spent, yet she will not give up.
+
+ Q>> I should have known you'd be the one to end it. Mayhap now Tiamat will find some measure of solace.
+
+ Q>> I should have known you'd be the one to end it. Mayhap now Tiamat will find some measure of solace.
+
+ Q>> Very well.
+
+ Q>> Come on, then.
+
+ Q>> ...I take it Alphinaud is fond of Arenvald.
+
+ Q>> I know how he feels. But hand-wringing isn't going to help anyone. You had better have a word.
+
+ Q>> That woman... She plays at scorn, but her eyes are filled with sorrow. Sorrow deep enough to drown in.
+
+ Q>> If there is no reason to linger, I will take my leave.
+
+ Q>> ...Fine.
+
+ Q>> If I refused, she would only pursue me.
+
+ Q>> Let's get this over with, shall we?
+
+ Q>> I'm not coming either. Aymeric will be there, and I'd rather not be interrogated.
+
+ Q>> Don't worry, I have no plans to return to roaming in your absence. I know you'd only chase me if I did.
+
+ Q>> Many though the enemy were, their numbers consisted largely of tempered beastmen, with a few lunar primals to keep things interesting. The Garleans themselves ventured little, and lost less.
+
+ Q>> It has ever been the Empire's way to have others fight their battles, but even they would blush at the Telophoroi's use of tempered slaves.
+
+ Q>> Hmph. I merely grew weary of wandering the Far East.
+
+ Q>> I care not where we go. Here or there, my lance will be ready.
+
+ Q>> The arrangements may be settled, but what of your thoughts? They must race at the prospect of returning home after so long.
+
+ Q>> Sea travel can be tedious, but I don't mind it. 'Tis a rare experience for most Ishgardians.
+
+ Q>> I am...unaccustomed to fabricating lies on demand. Why should it matter how I earn my living?
+
+ Q>> I am...unaccustomed to fabricating lies on demand. Why should it matter how I earn my living?
+
+ Q>> That won't be necessary. Until we reconvene, I prefer to wander as the wind takes me.
+
+ Q>> So it's back to Thavnair... Had I known earlier, I would have considered more suitable attire.
+
+ Q>> Having been to Thavnair before, I can travel by aetheryte, but what of the rest of you? Another sea voyage would waste time we do not have.
+
+ Q>> Whether you come with us or no is your choice and yours alone.
+
+ Q>> If it is too difficult, we'll manage.
+
+ Q>> I shall teleport the tried and trusted way. Good luck.
+
+ Q>> You there, I need three drinks. Something that helps with aether sickness.
+
+ Q>> Hm...
+
+ Q>> Nineteen thousand and eight hundred gil... That's a reasonable deal...isn't it?
+
+ Q>> Hm... Perhaps it's a bit expensive? Still, if it's special like he says...
+
+ Q>> Hm? I thought you could barely stand. What do you need to tell me that's so urgent?
+
+ Q>> ...Wait. I *shouldn't* buy the lassi. This merchant is *swindling* me.
+
+ Q>> Hmph. That confusion would've been quite costly. For both of us. Very well, then--your coin.
+
+ Q>> Here, a bottle for each of you. Take them to the others and get some rest.
+
+ Q>> I'll be back after I've explored the town.
+
+ Q>> Back on your feet, I see.
+
+ Q>> Aye, I've bound it. 'Tis the most I could do against this heat short of shedding my armor.
+
+ Q>> A local vendor. The man said it's a Thavnairian weave--tough and not easily unraveled.
+
+ Q>> Ninety-four hundred gil--a steal, I was told. 'Tis nothing fancy, but I've always valued function over form.
+
+ Q>> Is it truly so amusing to see my hair bound? 'Tis how I used to wear it. A functional fashion.
+
+ Q>> Perhaps you were confused by how you found me following Nidhogg's demise. It had fallen loose after the chirurgeons removed me from my armor and put me to bed. I simply decided to leave it that way for a time, seeing as I would not don the Azure Dragoon's helm again.
+
+ Q>> Seeing as there's dried fish, I wondered if there might be dried squid as well...
+
+ Q>> There you are. Gotten over the aether sickness, have you?
+
+ Q>> That Matsya fellow you were helping--he's Arkasodara, is he not?
+
+ Q>> Apparently, 'tis almost exclusively his people that are being kidnapped. Should he be traveling alone?
+
+ Q>> It's settled, then. Keep your eyes peeled while we make for the village.
+
+ Q>> Mark you that platform out on the water. Some manner of shrine, perhaps?
+
+ Q>> You worship dragons too?
+
+ Q>> Dragon ally...
+
+ Q>> If there was a battle, there's a conspicuous lack of blood.
+
+ Q>> What of that boy... Varshahn, was it?
+
+ Q>> Running this and that errand for the satrap, you say...
+...Hm? Why do I ask? 'Tis nothing. Curiosity.
+
+ Q>> Hm... Bad tidings, I take it.
+
+ Q>> Hm... Bad tidings, I take it.
+
+ Q>> When last I visited, the city was brimming with life. I expect the tower has dampened the mood somewhat.
+
+ Q>> If our course of action is decided, let's not tarry.
+
+ Q>> First this armor, blessed with Ratatoskr's power, and now Vrtra's scale... Much has changed for dragons to show me such favor.
+
+ Q>> And with Nidhogg with me, in spirit and in hand, no obstacle will bar our way.
+
+ Q>> Whew... Carrying all those Matanga may have been the true struggle...
+
+ Q>> Whew... Carrying all those Matanga may have been the true struggle...
+
+ Q>> Just you and me, then. The guardsman at the gate should wave us through.
+
+ Q>> With the tower gone, I expect that the state of alert will be lifted.
+
+ Q>> Though I have been to Radzâ€“atâ€“Han before, this place is a veritable maze.
+
+ Q>> Rather than risk getting lost, we had best ask for directions from this sentry at the fountain.
+
+ Q>> Lead the way...and don't expect me to act as your tour guide like certain others.
+
+ Q>> First, we should seek out the sentry in front of the fountain.
+
+ Q>> ...Name of the fountain? No idea. Do fountains normally have names?
+
+ Q>> Lost your way, I take it. Hardly surprising in this maze of a city. Best return to where we started.
+
+ Q>> Found your bearings, have you? Then let's get going to Meghaduta.
+
+ Q>> In other words, we head up. Sounds straightforward enough.
+
+ Q>> You heard the sentry. We head up.
+
+ Q>> Ah yes, I know about this portal. It leads to a nearby isle. The treasure vault of one of Radzâ€“atâ€“Han's wealthiest families.
+
+ Q>> They took the god of luck for their guardian, on account of which they occasionally open up a section of their vaults. For aspiring treasure hunters to try their own â€œluckâ€�, or so they say.
+
+ Q>> There are also coffers hidden across the land that act as portals. Find one, and you gain access to the vault.
+
+ Q>> Something to bear in mind in case you exhaust your funds while on the road. 'Tis a troublesome experience, as I can personally attest.
+
+ Q>> Quite an ordeal to get to the satrap's residence... It could stand to be a more obvious route, like the one to the Vault or Kugane Castle.
+
+ Q>> Ah, Thavnairian weave. Hard to imagine more vibrant stuff. I daresay Aymeric would be partial to the gold thread. And the blue, of course. He loves his blue.
+
+ Q>> I've never put much thought into what I wear. A spare set of clothing is usually all I carry, and if that isn't enough, I can always obtain something locally.
+
+ Q>> So the state of alert is still in effect. Perhaps it's for the best.
+
+ Q>> That aside, we're not here for an airship--we have business at Meghaduta.
+
+ Q>> Confusing as it is, you'd think they intended to make a maze out of Radzâ€“atâ€“Han.
+
+ Q>> Kugane was flat, at least. If you became lost, you could head to higher ground to get the lay of the land.
+
+ Q>> Ah, I remember passing by here with Varshahn. The situation being as it was, he regretted not being able to show us the sights.
+
+ Q>> Life has yet to return to normal here, but when it does, you ought to pay another visit.
+
+ Q>> Though the city is confusing, the food is quite good. I'm partial to hamsa myself--the meat's surprisingly tender and flavorful.
+
+ Q>> We are members of the Scions of the Seventh Dawn, come at the invitation of His Excellency.
+
+ Q>> As I heard it, after you defeated Nidhogg, his scales found their way into the hands of the Firmament's artisans.
+
+ Q>> Steeped in power as they are, it's no surprise that they were coveted. Still, it is a strange legacy for the vengeful wyrm.
+
+ Q>> Having spent most of the time in Thavnair, I've yet to fully grasp the lie of the land here in Sharlayan. Even finding my way to the annex proved a challenge.
+
+ Q>> That's all well and good.
+
+ Q>> But what would you have us do? I assume it's more than handing over the scales and being on our way.
+
+ Q>> If Aymeric asks after me, say I'm getting on fine and leave it at that. Don't you dare breathe a word about the cord.
+
+ Q>> Hmph. Can't please them all.
+
+ Q>> So you're not coming with us.
+
+ Q>> Strange. I thought you'd have a stake in this.
+
+ Q>> Like Gaius, I too stand accused of Varis's murder, though I am rather less recognizable on sight. Still, it's something to bear in mind once we reach Garlemald.
+
+ Q>> Preparations? I've got my armor and my lance. What more could I need?
+
+ Q>> Whatever that was, let's not do it again, eh?
+
+ Q>> Whatever that was, let's not do it again, eh?
+
+ Q>> I am unfamiliar with this route. The entrance Gaius and I used was demolished in the construction of that towering monstrosity.
+
+ Q>> When Zenos murdered Varis, Gaius was upon him in an instant. Seldom have I seen such fury.
+
+ Q>> I won't pretend to know the bond they shared, but pain, fear, rage...I know them well. I know what can drive a man to drown in them.
+
+ Q>> Though his homeland may have wished for his blade, my lance will roar in its stead.
+
+ Q>> We've no time for worrying over what's done. Let's go.
+
+ Q>> We've no time for worrying over what's done. Let's go.
+
+ Q>> I've no intention of standing by while the world falls to ruin.
+
+ Q>> So, how do we stop this?
+
+ Q>> If the might of Vrtra is not enough to hold these fiends at bay, Radzâ€“atâ€“Han is in dire straits indeed. We must go at once.
+
+ Q>> Usually the most dangerous foe in a wyrm's domain is the wyrm themselves. If I were Vrtra, I would be as offended as I am horrified.
+
+ Q>> Go. I will keep watch until your work is done.
+
+ Q>> You are ready, then?
+
+ Q>> In that case, let's head to Palaka's Stand. No doubt Vrtra is awaiting us.
+
+ Q>> Vrtra chose to reveal his identity to the villagers of Palaka's Stand before all others. A wise choice, considering the warm reception. Heh, he even seemed a little relieved...
+
+ Q>> It remains to be seen how the people of Radzâ€“atâ€“Han will take the news, but if this was any indication, he need not worry.
+
+ Q>> While you lot distribute hot beverages, I'll do a sweep for errant beasts to slay--a far less arduous task, no doubt. When you've finished, look for me at the Wakeful Torana.
+
+ Q>> Alphinaud told me everything. Full glad am I to hear the people are safe.
+
+ Q>> Likewise, you will be pleased to know I found no evidence of lingering beasts in the jungle and ruins. 'Twould seem you finished off the last of them.
+
+ Q>> Trying times yet lie ahead for the people of Thavnair. Fortunately, they have a wise and benevolent satrap to shepherd them through.
+
+ Q>> Speaking of which, I received word from Thancred not a short while ago. He awaits our return to the city on Alzadaal's Path. Come.
+
+ Q>> 'Twill be a struggle for the people to come to terms with these tragedies. But they are far stronger than you may think.
+
+ Q>> Wyrm and man, working towards a common goal...
+
+ Q>> Under normal circumstances, the Forum's proposal would be regarded as sheer madness. But when the sky burns, even madness can sound appealing.
+
+ Q>> Doubtless Vrtra is loath to abandon his home. And yet, absent other options, he cannot dismiss the option out of hand...
+
+ Q>> Under normal circumstances, the Forum's proposal would be regarded as sheer madness. But when the sky burns, even madness can sound appealing.
+
+ Q>> Doubtless Vrtra is loath to abandon his home. And yet, absent other options, he cannot dismiss the option out of hand...
+
+ Q>> I'm overdue for a good meal.
+
+ Q>> Beasts and blasphemies may be running amok in nearby lands outside the influence of Radzâ€“atâ€“Han and the alliance. If so, I may need to go hunting.
+
+ Q>> Beasts and blasphemies may be running amok in nearby lands outside the influence of Radzâ€“atâ€“Han and the alliance. If so, I may need to go hunting.
+
+ Q>> We couldn't save them all, but if we'd arrived any later, it would've been a massacre.
+
+ Q>> Things were looking bleak until you and the Ist turned up.
+
+ Q>> We couldn't save them all, but if we'd arrived any later, it would've been a massacre.
+
+ Q>> Things were looking bleak until you and the Ist turned up.
+
+ Q>> Then our foe is no longer some unknowable calamity.
+
+ Q>> We have but one aim--to defeat Meteion.
+
+ Q>> At first, I wasn't sure what to make of Hermes and his motives.
+
+ Q>> But it's like we discussed at the Great Work. When faced with the harsh realities of life, some seek the release of death. Others grow defiant. They fight.
+
+ Q>> Either way, it is our right to choose.
+
+ Q>> Perhaps if Midgardsormr were still alive--in the traditional sense, that is--he could have offered to help the vessel attain the necessary speeds.
+
+ Q>> Then again, there's no guarantee his contribution would make enough of a difference to matter.
+
+ Q>> Perhaps if Midgardsormr were still alive--in the traditional sense, that is--he could have offered to help the vessel attain the necessary speeds.
+
+ Q>> Then again, there's no guarantee his contribution would make enough of a difference to matter.
+
+ Q>> I don't understand the appeal of reshaping it to look like the world above. Make your peace with what it is, or go outside if that's what you prefer.
+
+ Q>> 
+
+ Q>> I have no idea what makes Alphinaud so confident we can solve this problem of theirs. Relentless optimism, I presume. A not-unwelcome trait in a youth...but less so in a gambler. Aye--let us resolve never to let him set foot in the Gold Saucer.
+
+ Q>> I was expecting the Skysteel Manufactory, but instead I find the village smithy...
+
+ Q>> ...Considering how much of a fuss he made at the time, I don't see why he takes every opportunity to bring it up. It was just firewood.
+
+ Q>> ...Considering how much of a fuss he made at the time, I don't see why he takes every opportunity to bring it up. It was just firewood.
+
+ Q>> I don't mind a bit of heavy lifting, but I draw the line at paperwork. So much as wave a sheaf of documents at me and I'll put my lance through it.
+
+ Q>> The time has come to claim our prize. Are you prepared?
+
+ Q>> You feel it too, don't you? The ship is impressive, but it pales in comparison to the vast primordial power beneath our feet...
+
+ Q>> You feel it too, don't you? The ship is impressive, but it pales in comparison to the vast primordial power beneath our feet...
+
+ Q>> I doubt there's anything worth worrying over. Not for Hydaelyn's champion, at any rate.
+
+ Q>> And even if we did, I expect you would hunt us down and restore us to health somehow.
+
+ Q>> I've seen more than enough death in my time. Friends, enemies...far too many to count.
+
+ Q>> Once, revenge was all I lived for. All that hate, all that anger...what good did it do?
+
+ Q>> None, that's what. Way I see it, there's no point living for the past. It's the present that needs protecting.
+
+ Q>> What--surprised to hear me and â€œloveâ€� mentioned in the same breath?
+
+ Q>> I've not a heart of stone. Even in my darkest hour, there were people I cared for. Mentors, comrades... That mad woman who gave her life for us...
+
+ Q>> Then you and Alphinaud threw my eyes off a bridge, and I've never known peace since.
+
+ Q>> A bit small for a welcoming party, but I've never been one for crowds.
+
+ Q>> Since the Final Days first manifested, we've been tested as never before. Even more so in your case.
+
+ Q>> Nevertheless, our work is far from over. We cannot afford to falter now, not when the end is in sight.
+
+ Q>> They bid us rest, but I'd much rather find something productive to do.
+
+ Q>> Hm. I suppose now is as good a time as any to hone my lance. Not that I've ever found it to be dull. Still, it eases my mind on the eve of battle.
+
+ Q>> What...? Surely this isn't the first time you've seen me without my armor.
+
+ Q>> All that remains is to return to the annex and give my armor one last polish. I expect Alphinaud has maintenance to carry out on those...floating things of his, too.
+
+ Q>> For so many to see us off like this seems wholly unnecessary. Still...I'll not begrudge them for wishing us well.
+
+ Q>> I'd rather not spend any longer mulling over strategy.
+
+ Q>> None of us are strangers to despair. If that is the source of her power, we are ready for it.
+
+ Q>> There is a dizzying, disorienting feeling about this place. As if I could lose my footing at any moment... We must be careful.
+
+ Q>> There is a dizzying, disorienting feeling about this place. As if I could lose my footing at any moment... We must be careful.
+
+ Q>> This...this cannot be real.
+
+ Q>> I thought this hill might afford a better view of our surroundings... A poor decision in hindsight.
+
+ Q>> Besides the light from the ship, all is shrouded in darkness. If Thancred is here, I'd never know it.
+
+ Q>> From what I can tell, we are near the edge of an island--if you can call it that--surrounded by floating debris.
+
+ Q>> Have care should you decide to climb higher. Were you to fall, you might well tumble through the great expanse for all eternity.
+
+ Q>> There's a fair stretch of terrain from the ship's port side we've yet to explore.
+
+ Q>> [WARRIOR OF LIGHT]. A word, before we join the others.
+
+ Q>> You see them too, don't you? The dragons.
+
+ Q>> As I thought. Their presence is tenuous at best, but there's no mistaking it.
+
+ Q>> No doubt your bond with Midgardsormr, and mine with Nidhogg, is what allows us to perceive them.
+
+ Q>> Could these apparitions be related to the dragons that now live on Etheirys?
+
+ Q>> ...Bah. Better to leave such conjecture to the others. In any case, we must be careful. We may soon find dragons they can see as well.
+
+ Q>> Hmm... Death and anguish. What happened to them, I wonder?
+
+ Q>> It seems these dragons have yet to succumb completely to the darkness of this place. Meaning the others should see them as well.
+
+ Q>> My aim was true. I had her.
+
+ Q>> How are we to defeat an enemy we can't attack?
+
+ Q>> They led you here as well, did they? It was described to me as the source of their woes and proof of their end. I think I'm beginning to see why.
+
+ Q>> It's a hatching ground. Or, was... I've seen similar on Etheirys.
+
+ Q>> Midgardsormr's kind must once have lived and thrived in a place such as this.
+
+ Q>> Vrtra said his father was driven from their ancestral home by war and strife. This, then, is the fate of those who remained.
+
+ Q>> Let's have a look around. Maybe these eggs have more to tell of what happened here.
+
+ Q>> The stench of these eggs is as fierce as any weapon. Would that there were winds to carry it away.
+
+ Q>> What's this? I thought all the eggs had been ruined.
+
+ Q>> If the dragonet was indeed hatched, there is no sign of it here--or its sire, for that matter.
+
+ Q>> We should look for them. You start with the clifftops, and I'll search the plains.
+
+ Q>> Everything all right? I thought I heard a dragon, or something resembling one.
+
+ Q>> Ah. I see what's happened here... Was that your child?
+
+ Q>> Explain.
+
+ Q>> But there are dragons among you capable of journeying to other stars.
+
+ Q>> Wait! You claim your kind is doomed, but there is another star--
+
+ Q>> They want only to brood in silence. To be left alone with their grief until time itself comes to an end.
+
+ Q>> The sole reward for senseless bloodshed. A pain I understand...and wish that I did not.
+
+ Q>> What fools we were...
+
+ Q>> But now isn't the time for such thoughts.
+
+ Q>> The others will want to hear what we've learned. Come.
+
+ Q>> With luck, they'll have learned something to help us devise a plan of action.
+
+ Q>> There's no small amount of debris floating about. Could there be enough to serve as a bridge to lead us elsewhere?
+
+ Q>> So what you're saying is, we've no way forward.
+
+ Q>> So, the moment of reckoning is finally upon us... I must say, when I pledged myself to your cause, never did I imagine that it would bring me to the very edge of existence.
+
+ Q>> Not that I'm complaining, mind you. After casting aside vengeance and shedding title and duty, I found myself wanting for purpose. In journeying with you, there has been nary a dull moment.
+
+ Q>> In the course of it all, I feel as though I have found a new place for myself. And a welcome opportunity to see how much the boy has grown.
+
+ Q>> I owe you a debt, aye. But as you can guess, I've ever preferred to express my gratitude through action rather than word. My lance is yours.
+
+ Q>> ...If you have something to say, then out with it.
+
+ Q>> You talk as if the Scions' dissolution was more than mere pretense. There may be fewer calls to action, but we should be compensated as before.
+
+ Q>> ...Why are you so concerned for me, anyway?
+
+ Q>> What, I thought you adventurers had any number of ways to earn coin. And though the Scions' mode of operation has changed, we should be compensated as before.
+
+ Q>> In any case, I do not want for options. Even if some are worse than others...
+
+ Q>> No sooner did Aymeric hear about our disbandment than he offered me a position as a guardsman in the Empyreum district. As a former Azure Dragoon, I'm guaranteed to be popular, he said.
+
+ Q>> Who does he take me for!? Even without his meddling, I'm perfectly capable of finding employment--and have!
+
+ Q>> Some days ago, a Hannish envoy arrived with word from Vrtra. The wyrm requests my presence as soon as things have settled here.
+
+ Q>> He didn't deign to mention why I'm needed, but it pertains to dragons, like as not.
+
+ Q>> In Thavnair, like elsewhere, the phenomena caused by the Final Days abated when you defeated Meteion.
+
+ Q>> Though it was too late for those who had already transformed, life is beginning to return to normal for the survivors.
+
+ Q>> Of those who sought refuge in Sharlayan, most have already returned home.
+
+ Q>> But many do not have a home to return to, nor loved ones. By an arrangement between Vrtra and the Forum, such souls may remain in Sharlayan if they wish, to work and study.
+
+ Q>> Vrtra was always the satrap in truth. It's gratifying to see him become one in name as well--one who has the complete confidence of his people, if the envoy's tone was any indication.
+
+ Q>> Hmph, I often find myself speaking favorably of dragons of late...
+
+ Q>> Not so long ago, I would have assumed his benevolence hid ulterior motives. But 'tis clear he cares for his people, and they in turn revere him.
+
+ Q>> To know such a nation may flourish is...comforting.
+
+ Q>> Vrtra's kin sought release from conflict. So weary were they of the suffering it wrought, they surrendered to oblivion.
+
+ Q>> But Midgardsormr didn't give up. In hope he made the journey to distant Etheirys with his clutch of eggs.
+
+ Q>> And though his progeny went on to be embroiled in conflict with men, there were times when they transcended hatred to abide in harmony.
+
+ Q>> That is their legacy and their triumph.
+
+ Q>> In my lance, I feel the weight of their struggle and the strength of their resolve. And it lends me strength.
+
+ Q>> These things, I might never have learned had I not joined you.
+
+ Q>> Should you ever have need of me, I will come. At the very least, it might be an opportunity to earn coin.
+
+ Q>> Word has it a false deity born in the Tower of Zot has survived, and occasionally appears to terrorize the locals.
+
+ Q>> Those who vanquish the being and present proof in Radz-at-Han will receive a handsome reward. Though â€œhandsomeâ€� isn't the word I would use to describe such outlandish garb...
+
+ Q>> But while I'm in Thavnair, perhaps I will acquire a set to send to Aymeric in lieu of an answer to his job offer. Let him stand guard thus attired and be the talk of Empyreum, if not all Coerthas.
+
+ Q>> You will recall I spoke of visiting Thavnair at Vrtra's request?
+
+ Q>> Well, he finally invited me to a feast...and made his proposal once I was too full of Hannish delights to refuse. He wishes me to train the Radiant Host in lancework...
+
+ Q>> ...But that is a tale for another time. What we need now is a merchant or a trawler with a ship fit for the open seas.
+
+ Q>> Matsya is a fisherman by trade, yes? We should head to Akyaali and see if he can help us.
+
+ Q>> I am hoping to hire a ship, of course, rather than buy one. My funds would not stretch quite *that* far.
+
+ Q>> Have you noticed our little shadow? He's been following us since we left the city.
+
+ Q>> We see you there, boy. Show yourself.
+
+ Q>> Ah, it *is* you...
+
+ Q>> Do you know how far out of our way we walked so that you'd not cross paths with some wild beast?
+
+ Q>> Enough. I knew your game, and I paid the price willingly. A fortunate purchase as it turns out, for my friend here was seeking those very ruins.
+
+ Q>> I do not doubt the ruins hold danger, but I assure you, between the two of us there is little we cannot overcome.
+
+ Q>> ...That we could. And assuming we do find this treasure hoard, it may prove wise to have more hands along for the carrying.
+
+ Q>> ...Assuming we find any. Still, it may prove wise to bring some companions along all the same.
+
+ Q>> I did not-- That was not my intention.
+
+ Q>> Oh, very well. Assuming we do find this treasure hoard, it may prove wise to have more hands along for the carrying.
+
+ Q>> Any ideas on whom to approach? The Scions have scattered far and wide since our last gathering...
+
+ Q>> Thancred and Urianger, eh?
+
+ Q>> Those two would answer our call, certainly. But they left the Rising Stones with a definite task in mind, and I am loath to interrupt their self-appointed mission.
+
+ Q>> Little Lord Alphinaud and his sister? Were they not bound for Garlemald? They have far more important matters to attend to than delving for trinkets.
+
+ Q>> Aye, Krile may have her hands full rebuilding the Students, but if you reach out to G'raha, he would surely leap at the invitation.
+
+ Q>> Y'shtola...?
+
+ Q>> Her magicks would be a welcome addition, aye, but I am loath to interrupt her research. Mayhap we could ask a less...prickly companion.
+
+ Q>> Will that set your mind at ease?
+
+ Q>> What is your name, boy?
+
+ Q>> Well, Mehrahd, your life is yours to live as you will. But I suggest you find a more honest trade if you truly wish to keep your sister safe.
+
+ Q>> Wait, boy.
+
+ Q>> I didn't take this roundabout road just to see you end up in some creature's belly. Let me walk you back to the city gates.
+
+ Q>> Call me Estinien.
+
+ Q>> I shall leave you to recruit G'raha. He'll appreciate the invitation that much more, I'm sure.
+
+ Q>> As I recall, he was based at the annex. Someone there ought to be able to point you in the right direction.
+
+ Q>> Let us be off too, Mehrahd. Do me a favor and don't stray from the path.
+
+ Q>> I send you to recruit G'raha and you return with an entire survey party.
+
+ Q>> I hope Matsya's boat is sturdy enough to carry us all...
+
+ Q>> Aye, we will keep an eye out.
+
+ Q>> 
+
+ Q>> Despite his misgivings, I wager Mehrahd remains in that merchant's employ...
+
+ Q>> Not until we find it, aye.
+
+ Q>> So let us dispense with the conjecture and set sail for the vault.
+
+ Q>> None who enter these ruins come out alive... Well, we shall see about that.
+
+ Q>> Can such a tiny portal truly be so dangerous?
+
+ Q>> Can such a tiny portal truly be so dangerous?
+
+ Q>> I wondered how one of the first brood could simply vanish and leave no trace of her passage. Now I have my answer.
+
+ Q>> Vrtra speaks as if Azdaja is a lost cause. But I wager he feels differently in his heart of hearts.
+
+ Q>> So much effort for such a little door.
+
+ Q>> No man? I should think Alphinaud would fit, given a firm enough push.
+
+ Q>> As I recall, 'twas you who was chasing tales of undersea ruins.
+
+ Q>> Then we are of one mind. We had no intention of taking it for ourselves.
+
+ Q>> Isn't that right, my friend?
+
+ Q>> I hope you enjoyed the expedition, at least. Otherwise it was a heavy purse to pay for a treasure map leading to a treasure we couldn't keep.
+
+ Q>> [WARRIOR OF LIGHT] and I are in this together. I will follow [his/her] example.
+
+ Q>> I hope you enjoyed the expedition, at least. Otherwise it was a heavy purse to pay for a treasure map leading to a treasure we couldn't keep.
+
+ Q>> 'Twould seem my stint on Vrtra's back did not go unnoticed. I couldn't take two steps before another Thavnairian was thanking me profusely for saving their home.
+
+ Q>> Why do you retain this vessel now that your true form is known? You could have flown across the island in a fraction of the time.
+
+ Q>> Hm... Fair enough.
+
+ Q>> As for my inquiries, the people of Palaka's Stand were unanimous in their reply.
+
+ Q>> They are surviving.
+
+ Q>> Resources were stretched to the limit when refugees were pouring in, but they persevered with some assistance from Yedlihmad.
+
+ Q>> From what I understand, they have always been an independent community--hunters and foragers, and the like--and I was assured that the jungle provides for their needs. For the most part.
+
+ Q>> Vrtra is warming to his role as satrap. Clearly all those years behind the curtain were not spent napping.
+
+ Q>> Understood. Thank you.
+
+ Q>> Y'shtola must have finished her study of the voidgate. Shall we hear what she has to say, then?
+
+ Q>> I thought the satrap would be too busy setting up the foundation...?
+
+ Q>> As you wish. Allow me to lead the way, Your Excellency.
+
+ Q>> For one who claims it is â€œtoo lateâ€� to save his sister, Vrtra seems awfully interested in whatever revelations Y'shtola might have to share.
+
+ Q>> The boy Mehrahd was glad to hear the news of the foundation. It means a new life for him and his sister.
+
+ Q>> The boy Mehrahd was glad to hear the news of the foundation. It means a new life for him and his sister.
+
+ Q>> Will we have need of Matsya's boat again?
+
+ Q>> 'Tis likely not needed with Varshahn along, but I held onto the map against the chance we might return to the ruins.
+
+ Q>> I thought we cleared this place of constructs the last time we came through. 'Twould seem a few stragglers remained.
+
+ Q>> I struggle to picture Y'shtola as a little girl. Easier to believe she sprang fully formed from one of Master Matoya's cauldrons.
+
+ Q>> Seeing the void's terrors firsthand was an experience. But I doubt fear of such creatures is at the root of Vrtra's hesitation...
+
+ Q>> Hm. To be honest, I've no interest in visiting the void myself.
+
+ Q>> ...Might we discuss this later? There is something I must do first.
+
+ Q>> Convincing others to follow their hearts is not my forte. I would have gladly let our more...philosophical comrades take the lead, had they been here.
+
+ Q>> 'Twas for the greater good. The wyrm's thundering sighs were keeping his citizens awake at night, and had travelers believing the palace wracked by some unnatural storm.
+
+ Q>> When I was one with Nidhogg, his vengeful thoughts were my thoughts. His endless rage my rage...
+
+ Q>> And the soul-chilling grief he nursed for Ratatoskr's death...
+
+ Q>> I would not wish such agony upon a foe, let alone a friend and ally. If there is a chance we can spare Vrtra that pain, then I will follow you.
+
+ Q>> I was put up in a guest room in the palace while I awaited my audience with Vrtra. I expect we'll be given the use of something similar.
+
+ Q>> All I need is my armor and my lance. Perhaps I'll train with the Radiant Host to pass the time before we depart.
+
+ Q>> To thus create a voidsent... Hannish alchemists are as clever as they are bold.
+
+ Q>> They've upgraded the vault's guardians to contend with voidsent. A task which was made easier by the surplus of broken units.  
+
+ Q>> ...One could argue that I did them a favor.
+
+ Q>> First time in a reflection or no, I can't say I'm feeling nervous. Not after having journeyed to the edge of existence.
+
+ Q>> It seems the minions are keeping their distance for now. Let's carry on.
+
+ Q>> It seems the minions are content to gawp for now. Let's carry on.
+
+ Q>> Might you not call to her? Let her know that you have come.
+
+ Q>> I see...
+
+ Q>> Very well. Let's hope a few of them are capable of speech.
+
+ Q>> This one does naught but stare...
+
+ Q>> A pity Scarmiglione is dead. He was talkative at least.
+
+ Q>> That would be the area in which we emerged.
+
+ Q>> I mislike the feel of this. Stay on your guard.
+
+ Q>> Zenos's avatar, eh? What are the odds.
+
+ Q>> We still know little about her, but for now I'm glad we found someone who can do more than moan for aether.
+
+ Q>> Zenos's avatar, eh? What are the odds.
+
+ Q>> We still know little about her, but for now I'm glad we found someone who can do more than moan for aether.
+
+ Q>> Their â€œone ruleâ€� is no different from that of many in our own world.
+
+ Q>> It's those like Alphinaud who are a rare breed.
+
+ Q>> We may have subdued the voidsent here, but I doubt they'll remain that way. Remain vigilant.
+
+ Q>> I feel eyes on us. Stay alert.
+
+ Q>> We've vanquished one of Golbez's archfiends, but three remain. As troublesome as this one, I expect.
+
+ Q>> Hmm... [WARRIOR OF LIGHT], you've come to the Thirteenth before, yes? You fought voidsent here.
+
+ Q>> But clearly you didn't know they could regenerate, else you would have shared that detail beforehand.
+
+ Q>> I doubt not that they did. There must be a reason why the ones you defeated did not return, in contravention of the natural order.
+
+ Q>> Do you remember aught out of the ordinary? A sealing magick like Zero's, perhaps?
+
+ Q>> From what I know of your foray, I can hardly blame you.
+
+ Q>> Perhaps they returned after you left. But if they didn't, there must be a reason why.
+
+ Q>> Please do.
+
+ Q>> I know what it feels like to have my essence blended with that of another.
+
+ Q>> Yet tumultuous though it was, it was only one wyrm's soul. To be bound to scores of others over thousands of years sounds *horrible*.
+
+ Q>> No trouble on your end either? Good.
+
+ Q>> I daresay Scarmiglione's fate served as sufficient warning. Let's hope that those elsewhere have the same sense.
+
+ Q>> The question is, how do we reach Golbez if he surrounds himself with armies of minions?
+
+ Q>> We could target his other archfiends...or perhaps those who have fled his service. Either may yield useful information.
+
+ Q>> That said, we can't do much while we're stuck on this isle.
+
+ Q>> If you're truly such an aimless creature, then you could do worse than to join us. You needn't expend as much energy to defend yourself as you would alone.
+
+ Q>> Fair point. Where to now?
+
+ Q>> Either a place the archfiends may strike next, or where refugees and deserters may seek sanctuary...
+
+ Q>> Not all voidsent can fly. It stands to reason that some would be made to serve as mounts.
+
+ Q>> The longer one lives, the more one yearns for peace. I understand why some would sequester themselves here.
+
+ Q>> The longer one lives, the more one yearns for peace. I understand why some would sequester themselves here.
+
+ Q>> If a voidsent is too weak to create its own domain, it must join with others for protection.
+
+ Q>> Alternately, it might devour them in a bid to become stronger, but in so doing risk losing its sense of self.
+
+ Q>> 'Tis an unenviable struggle...
+
+ Q>> The less time we give the enemy to prepare, the better. If everyone is ready, then let us set forth.
+
+ Q>> Agreed. This is no time for sentiment. Only the battle matters now.
+
+ Q>> Scarmiglione possessed the power of regeneration. Let us see what Barbariccia can do with her winds.
+
+ Q>> Barbariccia will use every advantage she has. Traps, ambushes--we must be prepared for all that and more.
+
+ Q>> In her present state, Zero is easy prey for other voidsent. We must be on our guard.
+
+ Q>> In her present state, Zero is easy prey for other voidsent. We must be on our guard.
+
+ Q>> You have business with Zero?
+
+ Q>> When the leader falls, the minions pledge themselves to the enemy. There's no loyalty--only survival.
+
+ Q>> While I'm sure Nahbdeen has matters under control, I can't help but worry. Let's not keep them waiting.
+
+ Q>> My chamber is much the same as this one. Too opulent for my taste, but at least it has space to train.
+
+ Q>> Then I'll go and meet with the soldiers. Share with them what I learned fighting voidsent in the Thirteenth.
+
+ Q>> The Thirteenth was far colder than Thavnair. Let's hope Zero doesn't collapse again from the heat... 
+
+ Q>> I'm not surprised that Zero is unfamiliar with money. If she means to stay in Radz-at-Han for a while, we'll need to teach her how to deal with the local merchants.
+

@@ -14,7 +14,7 @@ import java.util.*;
 public class DialogueFinderV1 {
 
     public static /*final*/ String CHAR_NAME = "Sharlayan";
-    public static boolean useScanner = false;
+    public static boolean useScanner = true;
     public static int total;
     public static int isInFileCount;
     public static String basePath = new File("").getAbsolutePath();
@@ -169,7 +169,7 @@ public class DialogueFinderV1 {
     }
 
     public static void writeToFile(String finalizedText) {
-        String pathname = basePath + "\\src\\main\\java\\com\\eightballgirl\\dialogueapp\\version_2\\output\\" + CHAR_NAME.toUpperCase() + "_dialogue.txt";
+        String pathname = basePath + "\\src\\main\\java\\com\\eightballgirl\\dialogueapp\\output\\" + CHAR_NAME.toUpperCase() + "_dialogue.txt";
         Path path = Paths.get(pathname);
         try {
             Files.writeString(path, finalizedText, StandardCharsets.UTF_8);
@@ -211,7 +211,7 @@ public class DialogueFinderV1 {
         System.out.println("---------------------------------------------------------------------------------------------------\n" + "Done! " +
                 /*allNameInstances.size() + */ total + " Instances of the name '" + CHAR_NAME + "' found in " + isInFileCount + " of " + csvFileList.length + " total files.");
 
-        System.out.println("Powered by xivapi. " + "https://xivapi.com/" +"Created by Sage Belknap.  All Final Fantasy XIV content is property of Square Enix Co., LTD.");
+        System.out.println("Powered by xivapi. " + "https://xivapi.com/" +"Created by 8bllgrl on github.  All Final Fantasy XIV content is property of Square Enix Co., LTD.");
     }
 
 }

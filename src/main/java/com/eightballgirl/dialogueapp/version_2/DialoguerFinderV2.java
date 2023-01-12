@@ -16,10 +16,10 @@ import java.util.*;
 //one of the versions should extend the other and override the methods that need changed.
 public class DialoguerFinderV2 {
 
-    public static /*final*/ String CHAR_NAME = "Estinien";
+    public static /*final*/ String CHAR_NAME = "Yshtola";
     public static final int DIALOGUE_COLUMN = 2;
     public static final int SPEAKER_COLUMN = 1;
-    public static boolean useScanner = false;
+    public static boolean useScanner = true;
     public static int total;
     public static ArrayList<String> fullAbsoluteListOfFiles = new ArrayList<>();
     public static int isInFileCount;
@@ -246,7 +246,7 @@ public class DialoguerFinderV2 {
     }
 
     public static void writeToFile(String finalizedText) {
-        String pathname = basePath + "\\src\\main\\java\\com\\eightballgirl\\dialogueapp\\version_2\\output\\" + CHAR_NAME.toUpperCase() + "_dialogueAbridged.txt";
+        String pathname = basePath + "\\src\\main\\java\\com\\eightballgirl\\dialogueapp\\output\\" + CHAR_NAME.toUpperCase() + "_dialogueAbridged.txt";
         Path path = Paths.get(pathname);
         try {
             Files.writeString(path, finalizedText, StandardCharsets.UTF_8);
@@ -362,7 +362,7 @@ public class DialoguerFinderV2 {
                 /*allNameInstances.size() + */ total + " Instances of the name '" + CHAR_NAME + "' found in " + isInFileCount + " of " + csvFileList.length + " total files.");
 //        System.out.println("Location of file:");
 //        System.out.println();
-        System.out.println("Powered by xivapi. " + "https://xivapi.com/" + "Created by Sage Belknap.  All Final Fantasy XIV content is property of Square Enix Co., LTD.");
+        System.out.println("Powered by xivapi. " + "https://xivapi.com/" + "Created by 8bllgrl on github.  All Final Fantasy XIV content is property of Square Enix Co., LTD.");
     }
 
 }
